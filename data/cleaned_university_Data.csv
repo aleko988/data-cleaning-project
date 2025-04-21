@@ -1,0 +1,1001 @@
+id,Rank,Name,Country,"Student Population","Students to Staff Ratio","Overall Score",Teaching,"Research Environment","Research Quality","Industry Impact","International Outlook",Year,female_ratio,international_students_perc
+1,1,"California Institute of Technology","united states",2243,6.9,95.2,95.6,97.6,99.8,97.8,64,2016,0.33,26
+2,2,"University of Oxford","united kingdom",19920,11.6,94.2,86.5,98.9,98.8,73.1,94.4,2016,0.46,34
+3,3,"Stanford University","united states",15596,7.8,93.9,92.5,96.2,99.9,63.3,76.3,2016,0.42,22
+4,4,"University of Cambridge","united kingdom",18810,11.8,92.8,88.2,96.7,97,55,91.5,2016,0.46,34
+5,5,"Massachusetts Institute of Technology","united states",11074,9,92,89.4,88.6,99.7,95.4,84,2016,0.37,33
+6,6,"Harvard University","united states",20152,8.9,91.6,83.6,99,99.8,45.2,77.2,2016,NULL,25
+7,7,"Princeton University","united states",7929,8.4,90.1,85.1,91.9,99.3,52.1,78.5,2016,0.45,27
+8,8,"Imperial College London","united kingdom",15060,11.7,89.1,83.3,88.5,96.7,53.7,96,2016,0.37,51
+9,9,"ETH Zurich",switzerland,18178,14.7,88.3,77,95,91.1,80,97.9,2016,0.31,37
+10,10,"The University of Chicago","united states",14221,6.9,87.9,85.7,88.9,99.2,36.6,65,2016,0.42,20
+11,11,"Johns Hopkins University","united states",15128,3.6,87.6,77.6,90.4,98.2,100,70,2016,0.50,23
+12,12,"Yale University","united states",11751,4.4,87.4,86.5,87.8,97.2,43.3,64.3,2016,0.50,20
+13,13,"University of California, Berkeley","united states",36186,16.4,87.2,80.4,91.1,99.7,47.9,61.9,2016,0.50,15
+14,14,UCL,"united kingdom",26605,10.7,87.1,78.1,91,94.2,40.5,94.4,2016,0.56,46
+15,15,"Columbia University","united states",25055,5.9,86.1,85.9,82.2,98.1,62.43,73.5,2016,NULL,28
+16,16,"University of California, Los Angeles","united states",38206,10.3,85.8,80.8,88.6,98.5,47.9,56.4,2016,0.52,15
+17,17,"University of Pennsylvania","united states",20376,6.5,85.2,82,86.9,98.6,47.9,49.5,2016,0.51,20
+18,18,"Cornell University","united states",21424,10.2,84,77.9,86.1,97.2,33.7,63.9,2016,0.48,19
+19,19,"University of Toronto",canada,66198,19.5,83.9,75.9,89.3,90.9,49.1,77.8,2016,NULL,15
+20,20,"Duke University","united states",15172,4.8,82.7,76,78,99,100,56.5,2016,0.49,17
+21,21,"University of Michigan-Ann Arbor","united states",41786,9,82.4,76.8,85.2,94.4,56.3,53.7,2016,0.48,16
+22,22,"Carnegie Mellon University","united states",11885,13.1,82.3,67.4,88.8,99.1,57.5,57.1,2016,0.39,35
+23,23,"London School of Economics and Political Science","united kingdom",9235,12.1,81.3,69.8,80.6,94.3,32.2,93.6,2016,0.53,70
+24,24,"University of Edinburgh","united kingdom",25775,14.1,80.3,68.6,77.2,96.3,36.1,89.8,2016,0.58,36
+25,25,"Northwestern University","united states",18334,13.8,79.5,69.8,78.4,96.5,81.2,53.9,2016,0.48,15
+26,26,"National University of Singapore",singapore,31592,15.5,79.2,71.7,84.5,79.4,49.8,96.2,2016,0.49,34
+27,27,"King’s College London","united kingdom",21395,11.4,78.2,64.5,75.8,93.8,40.1,93.8,2016,0.61,37
+28,28,"Karolinska Institute",sweden,7774,11.5,77.5,60.6,81.1,92.2,75.8,73.1,2016,0.70,22
+29,29,"LMU Munich",germany,35691,15.5,77.3,70.5,77.4,85.7,100,62.8,2016,0.62,13
+30,30,"New York University","united states",42056,6.8,77.2,74.7,72.3,95.3,30.4,49.3,2016,0.55,19
+31,31,"École Polytechnique Fédérale de Lausanne",switzerland,9666,10.5,76.1,61.3,67.5,94.6,65.4,98.6,2016,0.27,54
+32,32,"University of Washington","united states",44020,11.8,75.6,67.1,70,98.6,43.1,51.2,2016,0.53,13
+33,33,"University of Melbourne",australia,40128,23.7,75.4,62,75.5,86.6,64.6,87.1,2016,0.55,35
+34,34,"University of British Columbia",canada,50152,17.6,75.3,60.2,73.2,91.5,42.6,90.5,2016,0.54,25
+35,35,"KU Leuven",belgium,42503,41.9,74.8,59.9,76.9,87.3,100,68.6,2016,0.54,18
+36,36,"University of Illinois at Urbana-Champaign","united states",42727,18.7,74.5,64.5,81.2,86.8,52.8,45.8,2016,0.47,20
+37,37,"Universität Heidelberg",germany,28881,24.5,74.4,68.8,69.6,88.2,68.2,62.8,2016,0.55,17
+38,38,"McGill University",canada,31326,13.7,72.6,66.1,72.1,78.9,40.3,85.5,2016,0.56,23
+39,39,"University of California, San Diego","united states",27233,6.5,72.2,56.9,69.8,98.7,56.7,42.9,2016,0.48,11
+40,39,"University of California, Santa Barbara","united states",22020,27.3,72.2,52.6,66,99.2,90.4,61.5,2016,0.52,11
+41,41,"Georgia Institute of Technology","united states",19967,20.1,72.1,57.8,72.7,86,73.7,71.5,2016,0.31,26
+42,42,"Peking University",china,21321,8.3,72,77.8,72.4,69.1,100,49.2,2016,NULL,14
+43,43,"The University of Tokyo",japan,26199,5.7,71.1,81.4,83,60.9,50.8,30.3,2016,NULL,10
+44,44,"University of Hong Kong","hong kong",19835,17.6,71,64.6,72.8,70.1,53.7,99.5,2016,0.53,38
+45,44,"University of California, Davis","united states",35364,13.9,71,60.1,72.7,84.3,57.3,58.4,2016,0.54,13
+46,46,"University of Texas at Austin","united states",49427,17.4,70.3,59.3,69.7,92.2,63.1,31.7,2016,0.51,9
+47,47,"Tsinghua University",china,39763,13.7,70,73.3,83,58.8,100,39.5,2016,0.32,10
+48,47,"Wageningen University & Research",netherlands,9248,17,70,52.6,66.9,87.8,100,70.3,2016,0.56,21
+49,49,"Humboldt University of Berlin",germany,29987,52.5,69.9,63.7,77,73.6,36.1,62.6,2016,NULL,16
+50,50,"University of Wisconsin-Madison","united states",39655,10.8,69.7,65.1,68.2,86.6,48.5,33,2016,0.51,11
+51,351,"George Mason University","united states",26622,17,38.2,29.6,21.2,64.9,29.1,36.9,2016,0.54,7
+52,352,"University of Stirling","united kingdom",7830,15.8,38.15,22.6,23.5,59.1,30.4,77.7,2016,0.61,22
+53,353,"University of Nebraska Medical Center","united states",2857,2.6,38.08,37,13.3,64.4,33.6,37.7,2016,0.67,8
+54,354,"University of Florence",italy,54290,17.2,38.04,21.7,20.4,72.1,35.9,38.5,2016,0.59,7
+55,355,"Université Libre de Bruxelles",belgium,23819,26.1,38,26.1,28.3,47.9,39.1,84.5,2016,0.54,32
+56,356,"University of Crete",greece,14650,26.9,37.81,18.6,19.2,73.6,34.5,47,2016,0.63,5
+57,357,"Loughborough University","united kingdom",13950,15.9,37.79,31.2,32.2,41.3,36.6,72.9,2016,0.38,22
+58,358,"University of New Mexico (Main campus)","united states",23618,6.5,37.72,25.6,15.4,74.5,37,28.6,2016,0.67,4
+59,359,"Verona University",italy,25250,19.7,37.63,23.6,13.1,76.1,36.6,38.3,2016,0.65,7
+60,360,"University of Houston","united states",40325,43.7,37.62,34.9,26.5,52,42.3,33.9,2016,0.50,9
+61,361,"Swansea University","united kingdom",12800,17.2,37.51,22.2,23.8,58.2,32.7,72.4,2016,0.49,20
+62,362,"Victoria University of Wellington","new zealand",17142,21.1,37.5,26,28.7,44.3,45.6,88.8,2016,0.55,21
+63,363,"University of Tartu",estonia,10269,13,37.49,23.8,22.8,64.2,31.5,46.1,2016,0.66,3
+64,364,"University of Eastern Finland",finland,10798,17.3,37.47,24.8,20.7,65.1,33.3,46.1,2016,0.64,6
+65,365,"Polytechnic University of Turin",italy,27709,19.6,37.32,23.7,18.6,65.9,42.5,50.6,2016,0.29,16
+66,366,"University of Cyprus",cyprus,6880,22.9,37.31,18,28.5,56.7,30,74.7,2016,0.69,8
+67,367,"La Trobe University",australia,22037,29,37.21,27,28.5,45.4,43.7,78,2016,0.63,27
+68,368,"University of Guelph",canada,21643,28.3,37.18,28,34.2,44.4,47.4,53.6,2016,0.60,4
+69,369,"Sabancı University",turkey,2739,15.9,37.17,22.3,32.3,52.8,70,42.7,2016,0.39,6
+70,370,"University of Jyväskylä",finland,9703,15.2,37.15,28.2,25.5,55.5,34.2,47.1,2016,0.62,5
+71,371,"Hong Kong Baptist University","hong kong",10441,11,37.12,22.6,12.1,67.9,28.8,75,2016,0.61,25
+72,372,"University of South Australia",australia,18971,26.2,37.11,26.4,26.7,41.2,85.9,89,2016,0.59,32
+73,373,"University College Cork",ireland,15805,22.3,37.08,28.6,23.8,48.4,47.1,75.5,2016,0.55,15
+74,374,"UiT The Arctic University of Norway",norway,10398,12.2,37.08,26.5,18.7,58.8,36.8,66.1,2016,0.60,10
+75,375,"Indian Institute of Technology Bombay",india,8327,14.9,36.85,37.8,28.6,48.5,42.3,17.7,2016,NULL,1
+76,376,"Mizzou - University of Missouri","united states",29885,14.1,36.82,31.2,21,60.2,31.1,31,2016,0.53,5
+77,150,"Korea Advanced Institute of Science and Technology (KAIST)","south korea",9027,10,53,43.3,40.5,75.9,100,33.9,2016,NULL,9
+78,377,"Wayne State University","united states",23065,10.7,36.68,31.9,14.2,65.3,41.7,29.6,2016,0.57,6
+79,378,"Panthéon-Sorbonne University – Paris 1",france,42215,34.3,36.56,53.2,47.6,6.8,28.3,47.6,2016,0.59,20
+80,379,"University of Manitoba",canada,28576,27.8,36.49,27.1,26.9,49.7,41.8,57.8,2016,0.55,11
+81,380,"Washington State University","united states",24550,18.3,36.44,29,28.2,49.6,57.1,39.6,2016,0.50,7
+82,381,"Norwegian University of Science and Technology",norway,17381,13.9,36.36,16.3,25.8,59.8,51.8,59.9,2016,0.46,9
+83,382,"Instituto Superior Técnico Lisboa",portugal,11778,16.9,36.35,22.2,25,59.8,38.8,43.7,2016,0.27,9
+84,151,"University of Adelaide",australia,20771,30.1,52.9,32.8,43.2,72.4,79.3,85.1,2016,0.48,26
+85,383,"Temple University","united states",33268,13.3,36.34,34,18.2,58.3,41.6,28.6,2016,0.51,5
+86,151,"University of East Anglia","united kingdom",14990,14.7,52.9,31.9,28.7,92.7,28.5,83.5,2016,0.58,28
+87,151,"University of Twente",netherlands,6631,12,52.9,34.1,45.6,68.8,91.2,80.1,2016,0.37,26
+88,154,"Sungkyunkwan University (SKKU)","south korea",24365,20.3,52.8,51.4,53.5,53.8,97.5,36.7,2016,0.39,9
+89,384,"Bilkent University",turkey,9370,13.6,36.33,23.5,18.6,64.1,36.4,47.5,2016,0.46,3
+90,155,"Vrije Universiteit Amsterdam",netherlands,23280,16.3,52.5,28.4,37.1,90.7,60.1,54.9,2016,0.56,6
+91,156,"KTH Royal Institute of Technology",sweden,12062,14.6,52.4,39,44.3,63.9,78.1,84.4,2016,0.30,21
+92,157,"University of Cologne",germany,43280,43.4,52.3,42.2,38,75,68.5,53.1,2016,0.60,11
+93,51,"Brown University","united states",8653,10.1,69.6,62.8,55.7,96.4,31.4,57.8,2016,NULL,19
+94,385,"University of Rome III",italy,36353,61.2,36.3,23.1,21,64.8,37.5,35.9,2016,0.59,5
+95,386,"University of South Carolina-Columbia","united states",29336,16.3,35.98,31.1,21.5,58.7,30.3,24.5,2016,0.55,1
+96,387,"Maynooth University",ireland,7653,28,35.86,24.6,22.8,50.2,36.6,75.6,2016,0.55,11
+97,388,"The University of Texas at San Antonio","united states",27520,26.9,35.82,18.1,16.6,74.9,28.6,29.6,2016,0.48,6
+98,389,"Swinburne University of Technology",australia,20314,36.5,35.7,21.5,20.2,53.4,32.2,84.8,2016,0.44,32
+99,390,"San Diego State University","united states",27420,31.7,35.68,20.3,27,62.7,29.3,25.9,2016,0.57,5
+100,391,"University of Campinas",brazil,27095,15.3,35.67,44.6,42.3,22.6,49.4,21.1,2016,0.48,3
+101,392,"Lille 2 University – Health and Law",france,26894,38.5,35.63,15.1,9.5,81.7,31.5,39.4,2016,0.58,8
+102,393,"Hanyang University","south korea",16729,10.4,35.55,33.9,32.6,31.1,87.9,54.3,2016,NULL,19
+103,394,"Graz University of Technology",austria,7542,12.5,35.54,26,15.8,52.9,77.2,69.3,2016,NULL,16
+104,52,"Australian National University",australia,14604,19.2,69.5,54.7,77.3,72.3,48,93.3,2016,0.52,35
+105,53,"Technical University of Munich",germany,35565,31.5,69.4,61,66,80.1,99.2,63.8,2016,0.33,20
+106,54,"École Normale Supérieure",france,2400,7.9,69,70.6,47.7,87.1,37.1,85.5,2016,0.46,20
+107,55,"Nanyang Technological University, Singapore",singapore,25028,16.2,68.2,48.4,61.3,85.6,99.9,94.6,2016,0.48,33
+108,56,"University of Manchester","united kingdom",34940,15.3,68.1,58.4,66,77.3,42,87,2016,0.52,34
+109,56,"The University of Sydney",australia,41868,20.2,68.1,54.3,68.1,77.5,72.4,84.4,2016,0.57,28
+110,395,"University of Modena and Reggio Emilia",italy,19693,25.3,35.53,18.7,15.6,72.9,32.3,34.2,2016,0.54,6
+111,158,"University of Liverpool","united kingdom",18815,13.6,52.2,32.8,30.9,85.9,36.6,85.4,2016,0.52,30
+112,58,"University of Amsterdam",netherlands,24570,14.4,67.8,52.2,64.7,87.4,62.8,66.5,2016,0.53,11
+113,396,"University of South Dakota","united states",8003,17.1,35.52,29.3,12.1,70.4,28,17.1,2016,0.61,2
+114,397,"University of St Gallen",switzerland,6848,10.8,35.52,25.8,11.2,53.5,41.8,97.6,2016,0.32,34
+115,398,"SUNY Binghamton University","united states",15799,23.3,35.5,22.7,17.4,62,34,53.6,2016,0.48,13
+116,399,"University of Oulu",finland,14056,8.5,35.43,23.1,15.9,62.3,30.9,56.9,2016,0.49,6
+117,400,"Drexel University","united states",20713,10.8,35.43,31.2,14.6,57.7,36.3,46.3,2016,0.48,17
+118,401,"Sun Yat-sen University",china,51351,16.6,35.42,31.9,24.6,45.7,79.4,37,2016,0.51,8
+119,402,"University of Montana","united states",12470,15.2,35.36,30.8,13.6,65.5,31,21.5,2016,0.54,3
+120,403,"University of Kaiserslautern",germany,14184,54.4,35.22,29.6,22.6,47.5,80.2,44.1,2016,0.36,14
+121,404,"University of Rome II – Tor Vergata",italy,33504,26.5,35.16,23.5,17.2,64.5,34.7,36.5,2016,0.52,6
+122,405,"Aston University","united kingdom",8835,17.8,35.01,18.4,20.4,51.9,34.6,92.5,2016,0.48,31
+123,406,"Claude Bernard University Lyon 1",france,35308,16.1,34.95,21.3,13.2,66.5,34.5,50.5,2016,0.50,11
+124,407,"University of Tsukuba",japan,15930,12.6,34.76,40,30,33.7,42.9,34.4,2016,0.38,16
+125,159,"TU Dresden",germany,35487,37.4,52.1,41.4,45.8,66.1,99.7,47.7,2016,0.42,12
+126,408,"Makerere University",uganda,37340,29.4,34.7,15.9,11.8,70.7,33.1,58,2016,0.50,9
+127,409,"Marche Polytechnic University",italy,16589,23,34.67,15.2,11,80.2,28,27.3,2016,0.45,4
+128,410,"University of Waikato","new zealand",10159,17,34.65,19.3,18.2,53.7,30.7,87,2016,0.57,25
+129,411,"Rovira i Virgili University",spain,12533,12.8,34.64,20.8,14.8,66.9,30.9,41.5,2016,0.61,9
+130,59,"The Hong Kong University of Science and Technology","hong kong",11385,23.8,67.2,49.4,66.1,82.6,68.1,80.5,2016,NULL,36
+131,412,"University of Pisa",italy,47247,18,34.62,21.6,18.9,64.5,31.4,31.1,2016,0.52,3
+132,60,"The University of Queensland",australia,34718,32.7,67,49.2,62.8,82.4,76.7,89.3,2016,0.53,27
+133,159,"University of Rochester","united states",9390,4.5,52.1,39.7,27.9,89,37,55.8,2016,0.49,26
+134,60,"Washington University in St Louis","united states",12528,5.7,67,54.3,55.6,99.2,33.5,44.9,2016,NULL,17
+135,413,"University of Brescia",italy,14076,25,34.45,15.6,14.8,72.3,35.8,36.6,2016,0.48,7
+136,414,"University of Tampere",finland,10045,9.5,34.41,23.5,13.7,63.7,40,41.9,2016,0.66,4
+137,415,"Murdoch University",australia,16606,32.8,34.38,18.7,19.6,51.2,36.5,88.3,2016,0.59,43
+138,62,"Utrecht University",netherlands,30779,15.4,66.6,48.1,64.3,88.1,89.1,55.8,2016,0.59,7
+139,161,"Lomonosov Moscow State University","russian federation",30822,7.7,51.9,75.4,66.7,8.6,95.7,57.8,2016,0.43,20
+140,416,"Federico Santa María Technical University",chile,11718,34,34.27,17.2,10.1,70.5,35.1,54.1,2016,0.24,2
+141,63,"University of North Carolina at Chapel Hill","united states",26518,7.3,66.4,58,54.5,95.9,39.4,39,2016,0.58,8
+142,417,"University of Graz",austria,20584,26.8,34.25,24.9,16.3,53.3,29.3,68.9,2016,0.65,12
+143,418,"University of Genoa",italy,37373,29.5,34.18,27.2,14.2,59.3,42.3,38.8,2016,0.56,9
+144,161,"University of Miami","united states",15286,5.7,51.9,41.7,22.3,90.1,35.5,64,2016,0.50,14
+145,64,"Boston University","united states",24789,8.6,66.1,57.8,49.5,97.7,30.3,51,2016,0.58,17
+146,163,"University of Arizona","united states",36429,12.7,51.7,38.7,41.8,79.5,32.4,38.6,2016,0.52,8
+147,65,"Delft University of Technology",netherlands,15920,19.4,65.9,55,73.8,61.5,100,84,2016,0.26,25
+148,164,"Pompeu Fabra University",spain,10901,18.3,51.2,32.9,28,90.7,37.2,63.3,2016,0.59,13
+149,164,"University of Reading","united kingdom",12050,14.8,51.2,39.3,37.3,69.9,34.2,85.1,2016,0.55,28
+150,419,"Nantes Université",france,33866,22.2,34.17,19.6,12.2,69.4,46.98,35.1,2016,0.56,11
+151,65,"University of Minnesota","united states",46825,18,65.9,53.5,61,88,98.5,35.3,2016,0.52,12
+152,420,"Hokkaido University",japan,18162,8.2,34.15,40.3,32.8,29.3,53.7,27.9,2016,0.29,9
+153,164,"Yeshiva University","united states",6753,5.5,51.2,44.8,23.7,92.8,46.98,28.5,2016,0.53,7
+154,421,"University of Nice Sophia Antipolis",france,27304,20.3,34.03,21.4,16.1,53.7,28.5,79.5,2016,0.56,22
+155,67,"Leiden University",netherlands,21222,17.1,65.7,50.5,63.1,85.2,49.8,64.3,2016,0.59,9
+156,250,"Aalborg University",denmark,17422,15.9,44.61,25.1,28.4,73.8,43.7,71,2016,0.48,15
+157,167,"Université Catholique de Louvain",belgium,28856,42,51.1,38.7,40.6,68.4,51,74.2,2016,0.54,19
+158,68,"University of Southern California","united states",36534,12.9,65.5,49.3,58.9,93,38,56.3,2016,0.52,20
+159,422,"Brunel University London","united kingdom",12615,17.6,34.03,24.8,23.3,39.5,34.7,91.8,2016,0.46,38
+160,69,"University of Bristol","united kingdom",17905,14,64.3,47.6,51.6,91.2,40,82.4,2016,0.53,25
+161,423,"University of Neuchâtel",switzerland,4358,8.5,33.94,24.2,14.7,48.2,38.35,91.4,2016,0.59,22
+162,70,"Durham University","united kingdom",15490,15.7,63.6,47.9,51.9,87.7,34.4,86.4,2016,0.54,24
+163,71,"Erasmus University Rotterdam",netherlands,20580,18.9,63.5,37.2,55.2,95.6,54.6,76.1,2016,0.48,17
+164,251,"Oregon Health and Science University","united states",2838,1.1,44.57,27.8,15.7,96,44.6,21.4,2016,0.65,3
+165,167,"Technical University of Denmark",denmark,9990,5,51.1,37.3,29.9,77.8,50,85.1,2016,0.27,18
+166,252,"Johannes Gutenberg University of Mainz",germany,35609,32.6,44.52,34.9,21.7,72.6,70.7,53.3,2016,0.58,10
+167,167,"University of California, Riverside","united states",20626,22,51.1,27.5,33.3,91.2,42.5,59.5,2016,0.51,12
+168,72,"Free University of Berlin",germany,33062,39.3,63.2,57.9,72.2,60.2,35.1,69.2,2016,0.58,20
+169,167,"University of Leicester","united kingdom",14540,13.3,51.1,32.1,27.8,86,31.7,86.6,2016,0.54,35
+170,73,"Monash University",australia,50882,40.5,62.8,48.3,59.1,73.3,82.5,87.6,2016,0.56,36
+171,424,"Western Sydney University",australia,30704,32.2,33.92,20.1,24.6,52.3,30.7,54,2016,0.56,9
+172,74,"University of Groningen",netherlands,24556,25.6,62.4,43.3,56.9,84,92.4,63.9,2016,0.52,11
+173,253,"George Washington University","united states",20541,12,44.52,44.7,23.5,65.7,29.5,48.1,2016,0.56,16
+174,425,"City, University of London","united kingdom",13055,17.9,33.9,23.5,21.2,43.5,28.9,89.6,2016,0.55,50
+175,254,"Sapienza University of Rome",italy,120986,32.3,44.46,38,37.3,61.5,32.6,34.7,2016,0.59,7
+176,75,"Penn State (Main campus)","united states",44501,12.4,62.3,50.4,61.9,80.5,56.2,40.8,2016,0.46,12
+177,167,"National Taiwan University (NTU)",taiwan,31891,11.9,51.1,54.1,58,47.3,49.6,27.7,2016,0.39,7
+178,76,"University of Helsinki",finland,23505,15.1,61.9,48.4,60.4,82.1,31.6,51.8,2016,0.66,6
+179,426,"Ca’ Foscari University of Venice",italy,19267,38.3,33.84,23.9,27.8,48.9,32.3,38.1,2016,0.66,7
+180,255,"Fudan University",china,32175,12.2,44.46,44.7,30.4,61.1,28,38.6,2016,0.50,11
+181,172,"University of Aberdeen","united kingdom",12940,15.8,51,29.7,31.4,82.6,43.1,91.4,2016,0.54,33
+182,256,"Bielefeld University",germany,21428,67.8,44.32,35.2,46.2,49.9,60.9,45.4,2016,0.57,7
+183,172,"University of Auckland","new zealand",29787,18.9,51,31.4,39.5,69.8,78,90.5,2016,0.54,28
+184,174,"University of Barcelona",spain,47491,12.2,50.9,38.5,37.4,78.9,31.1,49.2,2016,0.62,10
+185,427,"Tokyo Metropolitan University",japan,9303,9.9,33.83,21.6,11.4,72.2,30.9,19.9,2016,0.35,3
+186,257,"Aalto University",finland,16099,24.2,44.24,31.1,32.8,62.1,61.6,65.4,2016,0.32,17
+187,175,"University of Konstanz",germany,10930,59.1,50.8,38.5,46.7,61.9,92.4,58.3,2016,0.54,12
+188,428,"University of Macau",macao,8521,14.9,33.81,18.5,17,49.7,34.9,98.4,2016,0.58,31
+189,429,"National Cheng Kung University (NCKU)",taiwan,21234,14.4,33.74,29.8,40.2,27.2,100,27.7,2016,0.36,11
+190,430,"University of Canterbury","new zealand",12187,16.5,33.6,23.5,22.5,38.9,52.1,91,2016,0.51,20
+191,176,"Eindhoven University of Technology",netherlands,8176,16,50.6,34.3,41,70.7,57.3,71.3,2016,NULL,14
+192,176,"University College Dublin",ireland,22193,24.5,50.6,35,38.5,70.8,33.5,86.3,2016,NULL,23
+193,178,"Hebrew University of Jerusalem",israel,17612,10.7,50.5,45.8,41.4,64.6,31.9,55.6,2016,0.55,5
+194,76,"University of Glasgow","united kingdom",22615,16,61.9,41.6,48.3,92.3,31.6,85.8,2016,0.57,29
+195,179,"University of Waterloo",canada,30726,24.2,50.3,35.4,43.9,66.5,39.5,74.4,2016,0.45,14
+196,78,"University of Tübingen",germany,28327,38.9,61.7,47,59.8,79.3,59.2,58.2,2016,0.58,12
+197,79,"University of Pittsburgh-Pittsburgh campus","united states",26485,5.8,61.5,50.6,50.3,92.3,39.3,33.9,2016,0.51,10
+198,180,"Sant’Anna School of Advanced Studies – Pisa",italy,769,8.5,50.2,42.5,23.2,84.5,71.2,45.2,2016,0.35,17
+199,80,"University of Warwick","united kingdom",18530,16.6,61.3,47.4,53.1,78.2,37.7,90.3,2016,0.48,37
+200,180,"University of Gothenburg",sweden,26420,16.4,50.2,28.5,39.8,81.8,30.3,58.3,2016,NULL,12
+201,81,"Uppsala University",sweden,25266,18.2,61.2,44.1,61,80.9,39.5,59.6,2016,0.57,12
+202,182,"University of Bergen",norway,11623,11.1,50.1,32.5,31.5,82.4,36.2,70,2016,0.60,12
+203,182,"Cardiff University","united kingdom",23345,13.1,50.1,30.9,31.6,82,34.6,78.1,2016,0.57,23
+204,82,"University of Copenhagen",denmark,27545,4.1,61,49.8,42.7,86.2,45,83.3,2016,0.67,19
+205,182,"University of Utah","united states",25674,16.9,50.1,35.6,35.3,83.7,57.4,30.1,2016,0.45,9
+206,82,"UNSW Sydney",australia,38309,25.9,61,40.7,53.9,82.1,50,89.5,2016,0.47,32
+207,84,"University of Freiburg",germany,26467,31.2,60.7,47.4,51.1,80.5,100,60.3,2016,0.52,16
+208,185,"Brandeis University","united states",5495,12.6,49.9,28.3,25.7,97.3,38.6,47,2016,0.55,22
+209,258,"Korea University","south korea",24043,15.8,44.24,43.9,43.4,41.8,99.8,40.2,2016,NULL,14
+210,185,"University of Dundee","united kingdom",11630,15.3,49.9,25.6,26.9,90.2,49.5,78.5,2016,0.60,25
+211,85,"Seoul National University","south korea",26389,13.9,60.5,66.5,70.5,50,85.4,30.9,2016,NULL,10
+212,259,"The University of Tennessee-Knoxville","united states",24716,17,44.21,29.5,23.2,81.4,41.3,39.3,2016,NULL,5
+213,260,"TU Wien",austria,26419,52,44.17,34.1,32,54.6,86.5,77.3,2016,0.27,27
+214,185,"University of Würzburg",germany,26576,38.4,49.9,34.6,35.8,79.1,47.9,50.9,2016,0.57,8
+215,188,"Paris-Sud University",france,27603,15,49.8,38.7,29,79.8,28.8,64.2,2016,NULL,17
+216,86,"University of St Andrews","united kingdom",8340,12.7,60.4,49.7,47.3,78.8,30.6,92.3,2016,0.56,47
+217,261,"Colorado School of Mines","united states",5287,18.2,43.94,28.5,30.3,71.8,83.7,35.5,2016,0.26,12
+218,87,"Vanderbilt University","united states",12161,3.6,60.1,47.8,44.2,95.7,63.2,29.1,2016,0.52,9
+219,189,"Arizona State University (Tempe)","united states",83236,29.9,49.7,32.4,38.1,84.6,32,31.9,2016,0.50,9
+220,431,"National Autonomous University of Mexico",mexico,137378,11.6,33.6,42.7,40.2,14.8,63.7,35.9,2016,0.51,5
+221,190,"Boston College","united states",13216,17.4,49.6,34.1,29.3,83.3,46.8,60,2016,0.54,19
+222,262,"University of Delaware","united states",19262,15.9,43.9,23.7,34,70,98.7,41.6,2016,0.56,10
+223,190,"University of Antwerp",belgium,12346,30.3,49.6,31.6,40.8,71.7,60.3,64.8,2016,0.56,16
+224,263,"Queen’s University",canada,20488,22.1,43.77,35.8,35.8,54.4,54.2,61.6,2016,0.58,10
+225,88,"Maastricht University",netherlands,15626,18.9,59.9,37.5,47.7,82.7,95.4,95.5,2016,0.56,48
+226,264,"Charles Darwin University",australia,5570,25.4,43.75,17.8,22.6,85.9,43.2,63.7,2016,0.67,15
+227,88,"Kyoto University",japan,22809,5.6,59.9,70.6,69.3,46.6,79,26.1,2016,NULL,7
+228,265,"Queensland University of Technology",australia,33391,35.8,43.66,28.8,35.6,56,73.7,76,2016,0.54,17
+229,192,"Ulm University",germany,9187,11.2,49.5,35.2,23.9,86.4,58.4,58.2,2016,0.47,10
+230,193,"University of Luxembourg",luxembourg,5144,15.9,49.4,25,26.7,84.8,38.1,99.8,2016,0.50,52
+231,266,"University of Newcastle",australia,23508,21.9,43.63,27.4,26.5,67.2,64.4,75.9,2016,0.56,18
+232,90,"Ohio State University (Main campus)","united states",51462,13.4,59.7,51.6,46.6,83.2,53.1,53,2016,0.49,12
+233,90,"Emory University","united states",12338,4.5,59.7,48.3,37.1,96.7,48.9,51,2016,0.56,18
+234,193,"Texas A&M University","united states",50657,21.4,49.4,49.4,52.4,47.1,46.4,47.8,2016,0.47,9
+235,90,"Lund University",sweden,28251,11.5,59.7,39.7,53.6,81.3,70.4,74.1,2016,NULL,15
+236,267,"James Cook University",australia,11713,21.9,43.26,19,22.8,81.4,40.7,70.4,2016,0.63,11
+237,195,"Charité - Universitätsmedizin Berlin",germany,6853,6.6,49.3,37.3,22.2,83.8,68.4,61.1,2016,0.64,16
+238,268,"Simon Fraser University",canada,26640,28.3,43.22,23.2,29.2,72.8,42.3,61.4,2016,0.55,19
+239,196,"Newcastle University","united kingdom",20175,15.2,49.2,30.9,27.5,81.5,34.7,84.3,2016,0.50,29
+240,432,"University of Porto",portugal,32720,18.8,33.59,32,28.2,37.2,38.7,45.4,2016,0.54,9
+241,269,"University of Galway",ireland,14067,26.8,43.14,27.3,25.4,68.5,41.9,76.5,2016,0.56,14
+242,196,"St George’s, University of London","united kingdom",2960,13.5,49.2,25.6,18.1,100,37.7,69.5,2016,0.61,17
+243,93,"University of Exeter","united kingdom",17755,18.8,59.5,39.4,40,94.3,31.9,87.3,2016,0.54,28
+244,270,"Rensselaer Polytechnic Institute","united states",6671,15,43.11,30.4,31.5,65.1,79.6,40.3,2016,0.30,16
+245,94,"University of Bonn",germany,32474,70.4,58.8,45.1,47.5,85.3,53.04,63.6,2016,0.55,12
+246,94,"Georgetown University","united states",15408,8.5,58.8,54.4,39.3,82.5,80.7,52.7,2016,0.53,14
+247,94,"McMaster University",canada,23823,19.3,58.8,39.8,44.8,84.9,88,76.1,2016,0.53,15
+248,198,"University of Trento",italy,16841,43.2,49.1,30.8,27.4,87.7,47.1,55.9,2016,0.51,8
+249,271,"Koç University",turkey,4488,14.6,43.03,21.2,27.1,74.9,82.4,53.5,2016,0.52,8
+250,97,"University of Sheffield","united kingdom",23310,15.4,58.6,42.4,48.8,80.1,43.4,81.9,2016,0.50,31
+251,272,"Osaka University",japan,23144,7.8,42.72,46.8,45.2,37.4,76.1,26.6,2016,0.31,9
+252,199,"Paris Diderot University – Paris 7",france,27756,14.8,48.9,30.5,22.9,91,29,64.9,2016,0.63,17
+253,273,"Tomsk Polytechnic University","russian federation",11902,6.9,42.69,31.6,15.1,82.4,60.2,32.7,2016,0.39,17
+254,200,"Queen’s University Belfast","united kingdom",17940,17.9,48.8,34.1,33.3,68.9,35.7,93.4,2016,0.54,30
+255,433,"Kyung Hee University","south korea",24356,17.4,33.58,26.1,27.6,39.2,89.4,46.4,2016,NULL,14
+256,274,"North Carolina State University","united states",30533,13.6,42.67,36.1,30.5,60,40.7,49,2016,0.44,11
+257,98,"Queen Mary University of London","united kingdom",14260,14,58.5,34.1,41.3,93.3,36.8,93.5,2016,0.52,40
+258,201,"University of Science and Technology of China",china,14290,7.9,48.76,46.7,36.6,67.2,80.3,21.4,2016,NULL,2
+259,434,"University of Coimbra",portugal,22795,19,33.49,28.3,26.5,42.4,34.8,46.2,2016,0.55,11
+260,202,"Goethe University Frankfurt",germany,31861,9.3,48.58,35.8,28.6,79.3,38.1,60.2,2016,0.60,15
+261,99,"University of Göttingen",germany,25581,25.6,58,49.3,54.5,72.7,31.8,56.4,2016,0.51,12
+262,99,"Michigan State University","united states",44750,15.7,58,47.3,52.6,76.8,32.2,56.4,2016,0.51,15
+263,101,"Trinity College Dublin",ireland,15520,22.3,57.9,45.5,46.2,75.8,32.8,90.8,2016,0.57,25
+264,435,"University of Ferrara",italy,18882,30.2,33.49,17.7,17.2,63.3,35.9,41.8,2016,0.56,7
+265,101,"Rice University","united states",6333,9,57.9,37.9,35.1,99.7,41.7,66.6,2016,0.44,26
+266,436,"University of Saskatchewan",canada,19028,16.3,33.41,30.8,22.4,39.7,62.9,52.9,2016,0.57,14
+267,275,"Aix-Marseille University",france,71749,45.5,42.66,36.7,22.1,64.9,33.1,63,2016,0.61,13
+268,101,"University of Basel",switzerland,12551,17.3,57.9,39.5,33.1,88.3,99.9,94.7,2016,0.54,24
+269,437,"Curtin University",australia,30333,17.1,33.4,20.1,20.2,44.6,37.8,93.1,2016,0.53,38
+270,276,"Saint Louis University","united states",11919,5.8,42.58,36.9,10.9,85,29.9,26.6,2016,0.58,8
+271,438,"Keele University","united kingdom",8395,15.7,33.36,20,17.6,53,29.3,72.7,2016,0.55,20
+272,439,"Dublin City University",ireland,8546,22.9,33.32,26.1,25.2,36.3,51.7,76.7,2016,0.51,17
+273,277,"Syracuse University","united states",19660,15.9,42.57,31.4,20.8,77.1,36.3,38.3,2016,0.55,15
+274,278,"King Abdulaziz University","saudi arabia",35889,8.4,42.49,23.9,11.8,76.6,73.1,93,2016,0.57,21
+275,279,"University of Bayreuth",germany,12520,35.5,42.4,32.2,31.2,60.1,56.4,52.6,2016,0.46,8
+276,440,"Indian Institute of Technology Kharagpur",india,9928,17.5,33.32,33.2,30.5,41.4,31.7,13.3,2016,NULL,0
+277,441,"University of Bari Aldo Moro",italy,51560,65.1,33.24,28.7,21.6,48.8,45.4,31.7,2016,0.65,2
+278,280,"Nanjing University",china,29743,13.3,42.32,37.2,32.2,54.2,58.6,50.4,2016,0.46,10
+279,281,"Indian Institute of Science",india,3318,8.2,42.23,42.7,47.2,42.4,52.4,16.4,2016,NULL,1
+280,282,"National Research Nuclear University MEPhI","russian federation",7801,7.3,42.21,44.9,27.8,52.8,99.8,27.5,2016,0.29,7
+281,283,"RCSI University of Medicine and Health Sciences",ireland,2473,15.6,42.2,29.9,20.1,65.3,33.9,90.1,2016,0.55,63
+282,284,"University of Wollongong",australia,16489,25.4,42.01,25.8,28.4,59.3,57.9,86.8,2016,0.50,24
+283,285,"Technion Israel Institute of Technology",israel,13855,19.4,41.97,33,36.1,52.1,38.9,61.9,2016,0.35,4
+284,442,"RMIT University",australia,29501,18.1,33.18,24.7,17.7,44.6,37,82.1,2016,0.47,24
+285,286,"Zhejiang University",china,47508,15.9,41.79,44.3,46,36.1,96.2,19.6,2016,0.41,4
+286,443,"University of Maryland, Baltimore County","united states",13908,18.1,33.15,21.3,18.2,61.3,31.7,28.2,2016,0.46,7
+287,287,"University of Tasmania",australia,18340,23.8,41.65,21.8,25.7,68,42.7,79.1,2016,0.57,21
+288,288,"Virginia Polytechnic Institute and State University","united states",30850,18.6,41.48,34.9,38.2,54.2,43.3,29.5,2016,0.42,10
+289,444,"The Open University","united kingdom",76685,35.9,33.1,21,13.8,60.3,28.4,51.5,2016,0.61,9
+290,445,"University of Palermo",italy,43875,22.4,33.01,15.3,9.1,77.4,28,23.6,2016,0.60,1
+291,446,"American University","united states",11604,12,33,42.2,16.5,41.1,35.9,28.9,2016,0.60,12
+292,289,"University of Liège",belgium,20951,25.9,41.36,29.1,36.6,46.5,98.9,69.7,2016,0.54,23
+293,447,"China Medical University, Taiwan",taiwan,7983,15.4,32.96,24,29.4,45,60.4,25.7,2016,0.53,8
+294,290,"Linköping University",sweden,17866,7.7,41.35,24.2,18.9,76.8,42.1,57.7,2016,0.52,10
+295,291,"Tulane University","united states",11381,8.4,41.32,39.1,19.3,67.8,32.4,35.3,2016,0.56,8
+296,448,"University of Aveiro",portugal,10791,17.8,32.92,24.8,26.5,43.6,40.1,45.9,2016,0.51,10
+297,292,"University of Bath","united kingdom",12830,18.7,41.32,28.9,27.9,56.7,36.3,84.8,2016,0.46,30
+298,293,"Paris-Sorbonne University – Paris 4",france,21580,27.4,41.2,61,55.8,7.1,28.5,44.2,2016,0.69,21
+299,449,"Novosibirsk State University","russian federation",7131,7.1,32.9,41.4,30.8,26.2,38.2,32.4,2016,0.52,13
+300,450,"Charles University","czech republic",51438,13,32.86,31.5,21.5,41,28.2,52.8,2016,0.62,15
+301,101,"École Polytechnique",france,2429,4.8,57.9,53.5,44.6,64.7,82.3,92.8,2016,NULL,30
+302,294,"University of Surrey","united kingdom",12065,16.5,41.19,31.7,28.9,51.2,34.9,90.4,2016,0.55,38
+303,451,"Lehigh University","united states",6300,11.3,32.8,23.9,15,58.2,38.9,36,2016,0.44,15
+304,295,"Griffith University",australia,30251,22,41.19,22.5,25.2,66.3,34.6,81.7,2016,NULL,21
+305,105,"Dartmouth College","united states",6178,6.6,57.8,50.7,35.8,93.3,40.8,38.3,2016,0.47,16
+306,296,"National Tsing Hua University",taiwan,10221,13.5,41.17,37.7,36.6,53,49.5,23.2,2016,0.33,5
+307,105,"University of Zurich",switzerland,26583,6.5,57.8,49.5,31.5,85.4,44,90.4,2016,0.57,19
+308,107,"University of California, Irvine","united states",26614,16.1,57.7,39.9,41.8,91.6,48.9,59.2,2016,0.52,16
+309,297,"Umeå University",sweden,16667,11.9,41.08,20.8,25,74.5,31.1,56.1,2016,0.60,7
+310,298,"Oregon State University","united states",22578,16.8,40.88,30.6,28.5,63.8,32.1,42.8,2016,0.47,8
+311,452,"Kyushu University",japan,18925,6.7,32.8,36.5,27.5,31.8,83.2,26.4,2016,0.28,8
+312,107,"Aarhus University",denmark,23895,13.6,57.7,36.9,50.7,79.8,68.3,76.8,2016,0.54,14
+313,299,"Flinders University",australia,15655,22.6,40.87,21.4,25.7,69.5,41.7,64.7,2016,0.63,15
+314,300,"University of Georgia","united states",33119,19.9,40.85,41.1,30.5,52.2,30.9,39.2,2016,0.57,7
+315,301,"Colorado State University, Fort Collins","united states",26769,19,40.78,31.6,33,59.3,41,34.5,2016,0.52,5
+316,107,"University of Mannheim",germany,11761,85.8,57.7,34.5,47.7,86.9,85.3,64.6,2016,0.55,15
+317,110,"University of Notre Dame","united states",11829,13.8,57.6,47.6,48.1,81.7,33.7,47.6,2016,0.44,10
+318,302,"Ruhr University Bochum",germany,38675,46.3,40.7,32.8,30,54.4,66.6,51.7,2016,0.48,13
+319,111,"The University of Western Australia",australia,20851,20.7,57.5,33.4,46.1,83.6,64.5,92.6,2016,0.50,27
+320,112,"University of Southampton","united kingdom",20925,13.5,57.2,39.8,43.6,82,37.5,88.4,2016,0.53,29
+321,453,"University of Portsmouth","united kingdom",20160,19.1,32.56,17.2,10.9,58.2,28.9,79.3,2016,0.45,23
+322,454,"Heriot-Watt University","united kingdom",8775,17.7,32.56,23.4,22.4,36.4,45.6,90.1,2016,0.41,43
+323,203,"University of Stuttgart",germany,24099,45.4,48.51,40,44.5,55.7,99.8,52.7,2016,0.31,20
+324,455,"Georgia State University","united states",28534,20.4,32.54,26.3,19.5,52.9,28.7,29.5,2016,0.59,5
+325,112,"RWTH Aachen University",germany,37917,27.6,57.2,49.4,56.3,63.2,98.1,54.1,2016,0.31,16
+326,456,"University of Strathclyde","united kingdom",15705,20.1,32.14,25.9,28,31.8,44.1,71,2016,0.50,20
+327,204,"University of Otago","new zealand",18600,20.3,48.36,30.7,30.5,74.9,31.5,89.9,2016,0.57,21
+328,457,"Southern Cross University",australia,9026,32.8,32.04,18.9,18.3,53.3,37.7,52.7,2016,0.66,15
+329,205,"University of Calgary",canada,28341,16.5,48.08,33.9,36.7,67.8,52,70.1,2016,0.53,17
+330,114,"Scuola Normale Superiore di Pisa",italy,462,16.5,57.1,54.2,53.1,67.2,52,46.3,2016,0.28,5
+331,458,"Oxford Brookes University","united kingdom",14240,18.5,32.04,25.7,18.8,42.7,28.4,68.9,2016,0.57,25
+332,206,"City University of Hong Kong","hong kong",10015,7.1,48.05,32.1,26.7,76.8,50.1,81.6,2016,0.51,28
+333,115,"Université de Montréal",canada,38264,20.3,57,46.3,45.5,69.6,92.6,84.2,2016,0.57,25
+334,459,"SUNY University at Albany","united states",15387,18.5,31.97,25.6,35.3,35.5,28,31.4,2016,0.51,8
+335,115,"Pierre and Marie Curie University",france,27862,8.7,57,52.8,32.7,82.9,37.4,74.1,2016,0.48,18
+336,460,"Université du Québec à Montréal",canada,27046,24.7,31.82,26.8,24.5,41.6,29.2,42.9,2016,0.61,9
+337,115,"Purdue University West Lafayette","united states",39256,18.1,57,50.2,57.7,63.2,50.41,66.4,2016,0.42,22
+338,118,"Pohang University of Science and Technology (POSTECH)","south korea",3055,10.1,56.9,49.1,47.1,76.7,100,33.7,2016,NULL,4
+339,461,"Ewha Womans University","south korea",17625,14.4,31.79,23.9,18.3,50.4,57.6,34.3,2016,1.00,6
+340,207,"Birkbeck, University of London","united kingdom",9455,17.2,47.92,33.5,35.1,66.3,28.5,89.9,2016,0.55,38
+341,119,"University of Maryland, College Park","united states",31331,8.4,56.7,45,42.1,88.2,32.3,43.5,2016,0.48,9
+342,462,"Howard University","united states",10297,6.8,31.74,38.8,11,44.5,46.98,30.3,2016,0.65,5
+343,120,"Ghent University",belgium,32166,34.1,56.6,42.1,54.5,71.2,88.3,54.2,2016,0.57,9
+344,463,"University of KwaZulu-Natal","south africa",30572,24.9,31.6,20.3,25.7,41.5,38.2,58.6,2016,0.58,6
+345,121,"University of Birmingham","united kingdom",25295,16.4,56.2,39.4,41.8,82.7,34.7,82,2016,0.54,23
+346,464,"University of Salento",italy,19959,58.4,31.48,29.6,13.2,53,36.2,24.5,2016,0.64,1
+347,465,"Tokyo Medical and Dental University (TMDU)",japan,2872,3.3,31.48,39.3,18.3,36.6,59.5,23.1,2016,0.51,7
+348,466,"Tampere University of Technology",finland,6147,15.5,31.48,23.1,17.2,45.5,67.5,54,2016,NULL,13
+349,467,"Saint Petersburg State University","russian federation",20836,5.2,31.35,47.9,31.4,14.5,29.5,33,2016,0.60,7
+350,122,"University of Florida","united states",50095,18.7,56.1,51.8,56.8,67.7,50.41,33.3,2016,0.54,9
+351,468,"Complutense University of Madrid",spain,86519,17.5,31.31,33.2,27.6,31.2,30.9,39.1,2016,0.62,13
+352,208,"École Normale Supérieure de Lyon",france,2218,8,47.89,41.6,30,69,31.7,65.6,2016,0.49,14
+353,122,"University of Bern",switzerland,14708,22.5,56.1,40,42.5,76.6,82.9,83.7,2016,0.54,14
+354,469,"Florida International University","united states",32566,25.9,31.24,25.7,18.1,49.4,32.7,32.8,2016,0.56,7
+355,209,"University of São Paulo",brazil,81402,14.6,47.87,60.9,68.6,20.4,40.3,25.3,2016,0.48,4
+356,470,"Indian Institute of Technology Delhi",india,8371,17.3,31.23,35.8,25.8,33.4,62.8,15.5,2016,NULL,1
+357,122,"University of Cape Town","south africa",20040,12.1,56.1,34.9,38.7,85.6,92.7,80.2,2016,0.53,18
+358,471,"Universitat Politècnica de Catalunya",spain,22893,11.7,31.22,25.2,14.8,44.7,40.9,63.9,2016,NULL,28
+359,125,"University of Erlangen-Nuremberg",germany,36146,53.9,56,51.7,39.7,75.2,99.4,47,2016,0.49,9
+360,472,"University of Urbino Carlo Bo",italy,13435,37.4,31.22,17.2,8.7,66.8,31.2,35,2016,0.61,7
+361,473,"University of Ulsan","south korea",14037,13.3,31.21,19.5,20.5,54,64.7,18.6,2016,NULL,3
+362,125,"Rutgers University – New Brunswick","united states",37032,17.3,56,43.9,55.7,75.4,35.9,34.7,2016,0.51,8
+363,474,"University of San Francisco","united states",10788,17,30.99,34.2,12.9,43.8,28.6,40.1,2016,0.63,17
+364,127,"University of Münster",germany,39838,46.1,55.9,40.3,44.1,85.6,58.2,46.3,2016,0.53,8
+365,475,"University of Parma",italy,26937,29.1,30.9,17.7,16.6,56.4,37.1,36.8,2016,0.56,7
+366,127,"Radboud University Nijmegen",netherlands,17713,13,55.9,34.3,48.5,84.9,39.2,60.9,2016,0.58,10
+367,303,"Iowa State University","united states",29991,17.4,40.64,31.2,29.4,61.5,54,35.4,2016,0.44,11
+368,476,"National and Kapodistrian University of Athens",greece,63052,32.3,30.89,26.7,16.3,45.8,53.04,39,2016,0.61,9
+369,209,"University of Duisburg-Essen",germany,36051,46.6,47.87,32.3,27,81.3,82.3,48.5,2016,0.49,11
+370,129,"University of Colorado Boulder","united states",29325,16.1,55.8,39.7,37.6,96.4,35.7,36.6,2016,0.45,8
+371,477,"Louisiana State University","united states",28116,20.1,30.75,26.8,27.7,37.8,44.12,26.1,2016,0.52,5
+372,304,"Justus Liebig University Giessen",germany,25682,53.9,40.58,32.9,33.9,52.9,46.4,46.8,2016,0.62,9
+373,211,"Indiana University","united states",62468,13.6,47.79,43,27.3,74.8,46.98,41.2,2016,0.53,13
+374,478,"Iran University of Science and Technology",iran,10311,23.9,30.7,25.9,26,42.3,61.2,12.2,2016,0.24,0
+375,129,"Tufts University","united states",10410,10,55.8,45.2,33.3,90.1,60.7,49.4,2016,0.54,14
+376,479,"Johannes Kepler University of Linz",austria,19646,29.1,30.7,19.2,13.8,51.6,37.4,58.5,2016,0.48,10
+377,305,"University of Bordeaux",france,51239,19.4,40.56,25.3,22,71.7,30.6,54.6,2016,0.58,12
+378,480,"University of Valencia",spain,58413,15.4,30.58,22.7,16.9,49.6,31.3,40.5,2016,0.60,9
+379,306,"University of Padua",italy,62577,18.3,40.53,25.7,22.6,74.6,32.6,37.9,2016,0.56,4
+380,481,"Pontificia Universidad Católica de Chile",chile,25075,15.3,30.58,28.2,21.3,37,28,52.4,2016,NULL,7
+381,212,"University of the Witwatersrand","south africa",23321,18.6,47.73,26.2,31.5,76,99.7,68.4,2016,0.56,9
+382,482,"Sharif University of Technology",iran,10977,18.7,30.51,26.6,30.1,33.7,87.8,15.9,2016,0.27,0
+383,131,"Royal Holloway, University of London","united kingdom",8745,15.9,55.7,35.1,33.2,91.2,34.4,92.7,2016,0.57,37
+384,307,"University of Innsbruck",austria,18209,16.9,40.52,23.6,16.9,67.3,39.9,95.7,2016,0.54,39
+385,483,"NOVA University of Lisbon",portugal,18867,17.9,30.5,26.9,21.9,38.3,41.3,44.5,2016,0.49,7
+386,132,"Lancaster University","united kingdom",11510,14.9,55.6,34,41.4,85.3,33.6,87,2016,0.52,33
+387,213,"University of Kiel",germany,24444,23.8,47.57,32.3,20.5,89.5,46.98,49.4,2016,0.53,8
+388,484,"Universiti Teknologi Malaysia",malaysia,16270,9,30.34,26.3,14.6,44.7,31.1,51.7,2016,0.43,13
+389,308,"Nagoya University",japan,15529,7.9,40.28,40.8,38.9,40.1,91.4,27.4,2016,0.29,10
+390,214,"Wake Forest University","united states",7326,4.6,47.55,34.6,19.5,94.8,42.5,24.2,2016,0.51,5
+391,485,"Concordia University",canada,31017,30.3,30.31,19.3,23.4,36.4,30.9,77.4,2016,0.50,27
+392,133,"University of York","united kingdom",14545,15.8,55.4,41.9,46.3,73.1,31.1,83.5,2016,0.55,26
+393,309,"University of Strasbourg",france,46208,17.8,40.18,25.5,23.4,64.4,32.8,71.6,2016,0.58,21
+394,215,"Northeastern University, US","united states",18539,15.1,47.26,35.5,20.6,84,32.9,58.7,2016,0.50,26
+395,486,"Bar-Ilan University",israel,17503,16,30.29,22.6,21.3,42.3,28.9,49.4,2016,0.59,5
+396,133,"University of Geneva",switzerland,15668,15,55.4,34.9,40.5,78.5,72.4,98.5,2016,0.61,39
+397,310,"University of Southern Denmark",denmark,22210,12.7,40.16,19.2,14.7,79.7,28,71.8,2016,0.52,16
+398,487,"Boğaziçi University",turkey,11506,25,30.25,21.9,19.2,45.4,57.1,38.3,2016,0.50,7
+399,311,"University of Cincinnati – Uptown","united states",36108,15.7,40.15,31.3,20.4,72.1,35.3,28.3,2016,0.54,6
+400,488,"University of Ioannina",greece,20825,36.3,30.17,14.5,17.7,56.4,32.9,36.9,2016,0.58,4
+401,216,"Peter the Great St Petersburg Polytechnic University","russian federation",17155,7.2,47.08,30.8,17.8,97.4,42.5,29.6,2016,0.40,8
+402,489,"University of Hull","united kingdom",15140,18.7,30.17,22.4,16.1,41.1,31.8,73.2,2016,0.52,20
+403,217,"Florida State University","united states",41226,31.8,46.91,38.5,40.1,64.7,32,41.6,2016,0.55,7
+404,490,"University of Cagliari",italy,30638,51,30.1,19.4,13.2,56.8,33.6,32.6,2016,0.62,1
+405,218,"Joseph Fourier University",france,16130,12.1,46.88,34.2,21.6,83.2,31.6,58.6,2016,NULL,13
+406,491,"Wuhan University",china,46227,14.4,30.1,38.2,26.8,18,97.8,36.7,2016,NULL,7
+407,135,"University of Leeds","united kingdom",27705,14.7,55.3,43.7,39,79.2,36.7,77.4,2016,0.58,21
+408,492,"Brno University of Technology","czech republic",23694,21.3,30.08,18,14.7,55.8,33.7,35.8,2016,0.27,15
+409,135,"Case Western Reserve University","united states",9259,6.4,55.3,46.1,33.2,92,34.1,40.5,2016,0.48,17
+410,493,"Bournemouth University","united kingdom",14905,25.9,29.95,32,12.6,35.2,28.8,70.6,2016,0.53,18
+411,219,"University of Ottawa",canada,36733,26.3,46.87,37.1,36.7,61.5,41.5,69.9,2016,0.60,15
+412,494,"National Yang-Ming University",taiwan,4496,5.4,29.93,41.5,18.5,33.3,30.2,15.8,2016,0.48,2
+413,137,"University of Oslo",norway,27139,18.8,55.1,43.3,44.7,75.5,38.3,68.2,2016,NULL,18
+414,495,"Xiamen University",china,32921,12.3,29.77,26.7,15.6,47,44.12,25,2016,0.52,5
+415,138,"Stockholm University",sweden,31715,23.7,54.8,34.1,51.2,82.5,31.1,48.5,2016,0.62,8
+416,496,"University of Siena",italy,18846,23.6,29.76,23.7,17.8,45.2,33.2,39,2016,0.59,5
+417,139,"University of Alberta",canada,36299,21.6,54.7,46.4,48.1,63.6,47.4,80.7,2016,0.55,23
+418,497,"University of Idaho","united states",11641,21.5,29.76,28.3,19.4,40.8,32.4,32,2016,0.47,6
+419,498,"National Institute of Applied Sciences of Lyon (INSA Lyon)",france,6137,8.2,29.6,27,10.6,41.8,40.3,63.6,2016,0.31,31
+420,499,"Ulster University","united kingdom",19620,15.8,29.58,19.1,13.2,44.1,29.2,79,2016,0.55,15
+421,500,"East China University of Science and Technology",china,27140,15.5,29.52,24.1,17.1,46.4,64.7,21.7,2016,NULL,5
+422,140,"Chinese University of Hong Kong","hong kong",17916,10.2,54.5,41.5,48.5,68.4,37.5,81.1,2016,0.53,22
+423,501,"Università Cattolica del Sacro Cuore",italy,30304,18.9,29.48,18.6,11.3,55.4,38.7,39,2016,NULL,10
+424,312,"Gwangju Institute of Science and Technology (GIST)","south korea",1394,9.6,40.12,35.2,42,43.7,45.2,36.2,2016,0.25,8
+425,220,"University of Fribourg",switzerland,10416,46.9,46.86,32.3,32.9,64.1,60.8,87.4,2016,0.58,19
+426,502,"Indian Institute of Technology Madras",india,8234,15.9,29.44,34.6,20.7,31.4,88.9,16.1,2016,NULL,1
+427,140,"Karlsruhe Institute of Technology",germany,25294,24.6,54.5,37.7,47.5,73.8,99.5,56.7,2016,0.26,16
+428,503,"University of Hertfordshire","united kingdom",19665,19.4,29.3,15.5,9.5,50.5,29.3,78.9,2016,0.54,27
+429,142,"University of Sussex","united kingdom",12000,17.4,54.4,33.4,37.2,86.1,30.6,88.3,2016,0.54,35
+430,313,"University of Trieste",italy,18135,25.8,40.08,26.5,18.5,74.1,32.3,47.3,2016,0.56,9
+431,504,"Hiroshima University",japan,14686,8.2,29.24,27.8,18.9,41.7,42.2,22.2,2016,0.36,5
+432,143,"University of Massachusetts","united states",56959,13,54.3,40.2,36.3,88.1,52.2,48.9,2016,0.49,11
+433,221,"Tel Aviv University",israel,23977,24.4,46.84,41,50.5,49.2,42.9,47.5,2016,NULL,4
+434,314,"TU Dortmund University",germany,29143,88.9,40.07,34.2,29.8,55.3,48.6,40.8,2016,0.47,10
+435,505,"American University of Beirut",lebanon,7695,8.9,29.17,27.7,11.2,31.9,38.35,93,2016,0.51,25
+436,222,"Politecnico di Milano",italy,30025,22.2,46.75,30.1,31.7,76.3,66.3,48.8,2016,0.34,12
+437,506,"Montana State University","united states",12331,17.8,29.09,17.7,21.8,48,43,23.5,2016,0.46,4
+438,507,"University of Warsaw",poland,49292,14.1,29.06,26.1,15.8,42.2,28.5,41.6,2016,0.67,7
+439,144,"University of Vienna",austria,34651,20.5,54.2,40.8,50.5,63.6,30.2,92.6,2016,0.67,25
+440,223,"University of Technology Sydney",australia,24519,44.1,46.69,27.2,35.4,66.9,43.4,90.1,2016,0.53,31
+441,508,"Kent State University","united states",23122,19,29.06,18.4,14.2,53.8,28.5,32.4,2016,0.58,7
+442,315,"Macquarie University",australia,27930,20,39.98,28.5,27.2,52.3,33.1,90,2016,0.55,44
+443,224,"University of Iceland",iceland,13960,25.9,46.64,16.8,27.1,91.4,58.8,61,2016,0.66,8
+444,316,"University of Turku",finland,12326,14.6,39.97,27.1,21.2,65.8,31.2,66.2,2016,0.61,5
+445,145,"University of Nottingham","united kingdom",30145,15,54.1,40.3,39,77.5,39.8,80.6,2016,0.54,27
+446,509,"University of Catania",italy,55859,49.7,29.04,19.2,15.9,52.9,29.5,25.3,2016,0.61,1
+447,317,"University of Hohenheim",germany,9163,41.2,39.95,30.9,33.8,51.5,52.8,50.3,2016,0.56,13
+448,146,"University of Lausanne",switzerland,11964,13.1,53.9,30.9,45.6,76.2,56,89.2,2016,NULL,22
+449,510,"University of Texas at Arlington","united states",29396,10.5,28.94,20.1,10.1,50.9,33.4,50.3,2016,0.60,10
+450,146,"University of California, Santa Cruz","united states",17404,22.7,53.9,31.1,34.2,99.9,36.1,45.6,2016,0.53,1
+451,225,"Tilburg University",netherlands,7576,22.4,46.62,34.1,47.1,51.5,57.4,71.6,2016,0.49,10
+452,226,"University at Buffalo","united states",25668,19,46.56,36.5,37.9,62,43.8,60.6,2016,0.47,19
+453,318,"Bangor University","united kingdom",9565,19.5,39.9,22.6,22.1,65.4,31,81.3,2016,0.55,22
+454,511,"New Mexico State University (Main campus)","united states",15035,18.8,28.92,19.5,19.2,47.2,34.6,30.5,2016,0.54,7
+455,148,"Autonomous University of Barcelona",spain,30538,12.3,53.8,40.3,40,83.8,34.9,50.3,2016,0.59,10
+456,227,"University of Hawai’i at Mānoa","united states",16773,11.1,46.43,32,35.5,67.7,44.7,63.4,2016,0.55,13
+457,319,"Medical College of Wisconsin","united states",1211,0.6,39.89,25.4,12.1,85.2,31.8,30.4,2016,0.48,5
+458,228,"University of Bologna",italy,85532,22.9,46.4,39.3,29.5,73,34.5,39.9,2016,0.56,7
+459,320,"Deakin University",australia,32713,30.4,39.85,22.4,21.9,66.8,30,76.9,2016,0.60,17
+460,149,"University of Virginia (Main campus)","united states",23845,10.2,53.3,38.8,37.5,87.3,37.9,43.4,2016,0.52,12
+461,321,"Vrije Universiteit Brussel",belgium,9020,17.1,39.76,28.7,24.5,56.8,77.1,64.5,2016,0.55,16
+462,322,"University of Milan",italy,58618,24.3,39.7,30.5,24.2,64.8,40.9,37.7,2016,0.60,5
+463,323,"University of Connecticut","united states",25742,13,39.56,35.9,25.6,57,30.9,43.1,2016,0.51,11
+464,324,"University of Essex","united kingdom",12695,19.8,39.49,33.9,33.3,38.6,28.9,93.7,2016,0.55,39
+465,325,"Shanghai Jiao Tong University",china,38191,12.8,39.48,37.8,45.2,34,92.9,27.5,2016,0.37,6
+466,326,"Kazan Federal University","russian federation",23321,12.2,39.48,21.9,12.3,87.5,42.4,25.5,2016,0.69,6
+467,327,"University of Turin",italy,67552,66,39.42,27.4,22.3,67.5,54.2,38.8,2016,0.62,6
+468,552,"Palacký University Olomouc","czech republic",18540,11.4,26.55,19.2,11.8,42.9,28.7,48.8,2016,0.70,9
+469,328,"Montpellier University",france,36731,18.4,39.35,38.7,16.7,59.5,31.9,54.4,2016,0.51,14
+470,553,"Pontifical Catholic University of Rio de Janeiro (PUC-Rio)",brazil,14300,21.2,26.36,24.5,24.1,23.1,100,31.3,2016,0.49,3
+471,329,"Stellenbosch University","south africa",21849,23,39.26,28.2,35,46.9,100,49.8,2016,0.53,8
+472,512,"University of Granada",spain,53476,16,28.9,24.3,14.7,45.8,29.4,36.4,2016,0.56,6
+473,554,"Middle East Technical University",turkey,25779,22.2,26.3,29.9,17.3,28.8,60,26.7,2016,0.44,7
+474,513,"University of Santiago de Compostela",spain,29085,15.3,28.76,22.9,14.1,46.9,32.3,37.1,2016,0.63,6
+475,330,"University of Plymouth","united kingdom",24120,25.9,39.26,19.3,18,75.2,28.5,64,2016,0.52,13
+476,555,"Mahidol University",thailand,27402,7.5,26.16,26.8,15.1,28.3,71.6,44.1,2016,0.63,3
+477,331,"University of Naples Federico II",italy,83653,64.2,39.01,24.7,14.8,81.3,47.4,21.1,2016,NULL,1
+478,332,"Toulouse 1 Capitole University",france,19011,43.8,38.99,18.6,35.7,56.3,32.5,66.7,2016,0.59,19
+479,556,"Tehran University of Medical Sciences",iran,13912,9,26.14,51.8,20,9.3,30,14.1,2016,0.62,1
+480,333,"University of Bremen",germany,18590,25.6,38.98,30.9,32.7,50,46,50,2016,0.50,11
+481,557,"Harbin Institute of Technology",china,31658,10.8,26.14,29.4,27.3,15.7,99.8,25.6,2016,0.29,7
+482,558,"University of Toledo","united states",19465,17.5,26.12,31.6,13.4,29.9,32.9,37.7,2016,0.50,9
+483,229,"University of Texas at Dallas","united states",16306,22.8,46.31,24.3,26.7,86.8,41.8,52.3,2016,0.44,23
+484,334,"National Taiwan University of Science and Technology (Taiwan Tech)",taiwan,7446,17.4,38.76,31.7,43.1,39.1,92.2,30.5,2016,0.34,11
+485,514,"Lappeenranta-Lahti University of Technology LUT",finland,3486,23.9,28.6,27.1,27.5,20.8,80.3,53,2016,0.31,19
+486,559,"Memorial University of Newfoundland",canada,15464,14.6,26.06,18.1,15.8,35.6,48.3,53.3,2016,0.59,10
+487,335,"Leibniz University Hannover",germany,22401,62.7,38.7,36.5,36.9,39,69.6,43.2,2016,0.41,12
+488,515,"Ben-Gurion University of the Negev",israel,16695,12.6,28.59,25.8,23.1,30.1,37,52.9,2016,0.49,2
+489,336,"University of Alaska Fairbanks","united states",3837,8.2,38.65,25.1,23.1,63,51.2,53.5,2016,0.53,7
+490,560,"Masaryk University","czech republic",40898,26.6,25.95,21.2,22.9,27.8,28.5,48.9,2016,0.62,17
+491,337,"Örebro University",sweden,8788,15.8,38.65,18.3,10.4,87.8,29.8,39.4,2016,0.61,2
+492,516,"Massey University","new zealand",19101,16.8,28.56,23.1,17.1,31.9,35.8,80.5,2016,0.62,15
+493,561,"Pusan National University","south korea",24929,19.7,25.92,27.5,24.7,20.4,66.8,32.9,2016,0.51,12
+494,338,"University of Kent","united kingdom",17640,14.5,38.64,24.6,19.1,60.9,28.8,87.2,2016,0.53,27
+495,517,"Tianjin University",china,29693,12.2,28.53,36.5,34.4,12.2,100,14.7,2016,NULL,1
+496,562,"Portland State University","united states",20398,22.2,25.83,16.8,14.4,43.3,44.6,31.6,2016,0.54,8
+497,563,"Indian Institute of Technology Kanpur",india,6167,12.2,25.81,33.1,15,31.5,28,16.4,2016,NULL,0
+498,518,"Semmelweis University",hungary,12920,10.9,28.4,19.6,10.6,41.5,30.7,81.7,2016,0.64,25
+499,564,"Quaid-i-Azam University",pakistan,12688,25.7,25.78,17.9,9.9,45.6,44.12,35.4,2016,0.53,0
+500,339,"University of Navarra",spain,11259,10.6,38.59,31.9,20.8,57.5,63.5,52.6,2016,0.52,16
+501,519,"University of Limerick",ireland,12212,19.8,28.4,19.8,16.3,36.6,34,76.5,2016,0.46,13
+502,565,"Tongji University",china,37394,13.5,25.74,28.9,29.2,13.1,63.5,37.2,2016,0.38,10
+503,340,"National Chiao Tung University",taiwan,12646,16.6,38.57,32.9,45.4,34.2,96.9,32,2016,0.27,5
+504,520,"Indian Institute of Technology Roorkee",india,8061,18.7,28.4,29.7,17.5,37.2,81.4,13.9,2016,NULL,1
+505,230,"University of Iowa","united states",27526,11.6,46.14,41,26.7,73.5,54.1,32.3,2016,0.52,11
+506,566,"Moscow Institute of Physics and Technology (MIPT)","russian federation",5395,7,25.69,35.4,18.4,15.5,62.8,44.4,2016,NULL,12
+507,341,"University of Pavia",italy,22958,40.6,38.55,25,22.5,65.1,69.4,40.5,2016,0.56,6
+508,567,"University of Wisconsin-Milwaukee","united states",22542,18.4,25.66,17.3,13.8,45.5,29,26,2016,0.52,5
+509,342,"Aberystwyth University","united kingdom",9250,19.1,38.51,21.6,18.9,67.2,31.3,72.2,2016,0.48,18
+510,521,"University of Minho",portugal,19090,18.8,28.35,23.9,20.1,35.3,51.6,43.6,2016,0.52,9
+511,343,"Autonomous University of Madrid",spain,28296,13,38.49,35.6,30.9,46.9,33,48.6,2016,0.56,15
+512,522,"Huazhong University of Science and Technology",china,57242,17.7,28.17,29.3,22.7,31.6,71.8,17.3,2016,0.34,3
+513,344,"VSB - Technical University of Ostrava","czech republic",14991,23.9,38.48,18.8,15.7,85.5,32.1,22.3,2016,0.49,5
+514,523,"King Fahd University of Petroleum and Minerals","saudi arabia",6898,7.1,28.14,25.4,16.1,24.4,81.2,84.5,2016,NULL,19
+515,345,"University of Nebraska-Lincoln","united states",21789,16.4,38.47,30.1,30.2,53.5,35.6,45.8,2016,0.46,9
+516,568,"University of La Laguna",spain,22422,14.9,25.57,16.9,10,44.8,28.5,44.7,2016,0.58,5
+517,524,"Carleton University",canada,25036,29.8,28.13,19.9,24,32,30.4,61.3,2016,0.47,18
+518,346,"University of Milan-Bicocca",italy,33370,72.5,38.42,24.3,25.5,65.8,46.6,34.3,2016,0.60,5
+519,525,"East China Normal University",china,29623,14,28.12,24.6,14.7,43.3,42,30.6,2016,0.63,11
+520,347,"University of Greifswald",germany,10931,24,38.41,30.1,23.5,61.3,32.6,41.7,2016,0.55,6
+521,569,"Missouri University of Science and Technology","united states",7647,15.5,25.54,23.5,18.4,28.7,52.8,40.6,2016,NULL,12
+522,526,"University of Zaragoza",spain,31046,11.8,28.12,20.1,12.7,49.5,36.7,33.5,2016,0.55,5
+523,231,"Stony Brook University","united states",21908,10.9,46.1,32.6,22,83,33.4,53.2,2016,0.50,24
+524,570,"Czech Technical University in Prague","czech republic",22751,12,25.5,20.6,9.3,46.5,28.2,25,2016,NULL,0
+525,348,"University of Oregon","united states",24418,20.2,38.23,21.2,22.7,72.6,30.8,33.5,2016,0.52,11
+526,232,"Medical University of Vienna",austria,7426,2.9,46.06,26.6,14.6,89.1,33.9,81.7,2016,0.50,28
+527,349,"York University",canada,48007,39.4,38.22,30.2,30.8,49.1,33.2,58.2,2016,0.59,9
+528,571,"University of Canberra",australia,11221,28.6,25.25,18.4,19.3,29.8,36.2,54.6,2016,0.54,24
+529,233,"University of South Florida (Tampa)","united states",31424,21.5,46.05,24.8,35.7,73.4,99.8,45.1,2016,NULL,10
+530,527,"Kansas State University","united states",21379,15.1,28.12,22.9,17.5,39.3,43.1,41.7,2016,0.50,10
+531,528,"Indian Institute of Technology Guwahati",india,4710,14.2,28.06,24.3,20.7,42.6,32.3,12.9,2016,NULL,1
+532,572,"The University of Tulsa","united states",4597,12.5,25.24,29.7,12.9,24.6,71.7,43.8,2016,0.43,25
+533,350,"Yonsei University","south korea",24774,11.6,38.22,37.2,34.1,39.4,75.9,41.5,2016,NULL,14
+534,529,"National Sun Yat-Sen University",taiwan,9336,19.6,28.06,26.1,33,25.8,44.3,19.7,2016,0.37,4
+535,573,"University of Oviedo",spain,24210,13.7,25.23,19.5,10.8,41.9,34.1,36.2,2016,0.54,5
+536,530,"Isfahan University of Technology",iran,10964,26.5,27.96,18.1,23,39.5,99.5,17.2,2016,0.39,1
+537,574,"Tokyo University of Agriculture and Technology",japan,5865,14.4,25.22,34.9,24.1,16.9,39.9,19.4,2016,0.27,5
+538,234,"Western University",canada,27387,20.7,46.01,38.6,32.4,59,59.7,73.6,2016,0.54,16
+539,531,"University of Chile",chile,29207,14.2,27.93,28.3,19.6,30.5,44.12,44.1,2016,0.47,3
+540,235,"Technical University of Darmstadt",germany,20300,53.6,45.98,37.1,43.2,51.1,99.1,54.4,2016,0.28,18
+541,575,"De Montfort University","united kingdom",16810,19.1,25.19,16.8,10.1,40.1,28.5,58.4,2016,0.57,21
+542,236,"Rush University","united states",1855,2.1,45.97,37.7,17.4,88.9,45.4,21.8,2016,0.71,5
+543,576,"Babeş-Bolyai University",romania,37915,23.5,25.12,27.9,12.5,32.1,28.6,35.4,2016,0.67,2
+544,237,"Royal Veterinary College","united kingdom",1820,11,45.88,26,27.8,74.9,45.5,81.7,2016,0.77,17
+545,577,"King Saud University","saudi arabia",40666,13.4,25.04,20,17.5,22.3,57.4,75.5,2016,NULL,6
+546,238,"Université Laval",canada,27227,16.2,45.64,37.5,31.7,62.2,57.5,63.8,2016,NULL,12
+547,652,"University of Vigo",spain,22793,19,21.46,18.4,10.5,31.8,38.1,30.7,2016,0.51,3
+548,578,"University of North Carolina at Greensboro","united states",16446,19.2,25.01,18.2,15.3,43.1,28.9,17.4,2016,0.66,2
+549,579,"Istanbul Technical University",turkey,34550,16,24.97,19.2,25.8,26.5,72.1,22.9,2016,0.34,5
+550,653,"Universidade Federal do Rio Grande do Sul",brazil,38743,14.8,21.45,32.6,13.7,16.8,44.12,18.9,2016,0.50,1
+551,580,"Tallinn University of Technology",estonia,14061,28.6,24.96,16.3,15,38.7,44.8,37.9,2016,0.44,5
+552,654,"University of Patras",greece,29251,40.9,21.32,18.5,12.1,28.8,48.3,30.6,2016,0.46,4
+553,239,"Paris Descartes University",france,34691,26.9,45.42,24.6,28.8,83.3,29,49.1,2016,0.63,15
+554,581,"Osaka City University",japan,8604,10.1,24.84,26.3,13.4,34.4,40.7,21.3,2016,0.36,4
+555,655,"Kaohsiung Medical University",taiwan,7009,12.6,21.31,20.6,22.2,20.5,33.2,19.9,2016,0.56,5
+556,582,"University of Arkansas","united states",22819,21.2,24.82,25.5,17.4,30.3,36.9,25.9,2016,0.50,5
+557,656,"Sichuan University",china,65035,14.5,21.3,25,18.4,16.1,90.8,15.7,2016,0.48,2
+558,240,"Hong Kong Polytechnic University","hong kong",22064,25.9,45.39,29.3,35.2,63.3,45.1,79,2016,0.51,26
+559,583,"National Technical University of Athens",greece,14780,26.9,24.78,20.2,15,36.2,40.3,31.3,2016,0.36,7
+560,657,"Yuan Ze University",taiwan,8663,20.6,21.25,16.2,18.3,28.6,39.8,17.7,2016,0.43,4
+561,241,"University of Illinois Chicago","united states",24313,9.2,45.3,40.9,29.2,63.2,38,58.1,2016,0.53,17
+562,584,"New Jersey Institute of Technology","united states",10646,26.2,24.75,18.9,16.6,32.2,32.2,48.5,2016,0.25,17
+563,658,"Feng Chia University",taiwan,20213,23.9,21.24,14.6,13.7,34.4,33.9,21.1,2016,0.36,7
+564,242,"Tohoku University",japan,17200,5,45.28,45.3,42.7,49.4,74.7,29.3,2016,0.25,7
+565,585,"University of Maribor",slovenia,14531,17.3,24.7,17.1,11.5,42.1,38.7,33.6,2016,NULL,4
+566,659,"Universiti Sains Malaysia",malaysia,28179,14.8,20.94,26.9,16.6,12.4,34.4,44.2,2016,0.61,10
+567,586,"Kanazawa University",japan,10546,10.4,24.64,24.7,14.8,35.5,30.4,18.4,2016,0.36,5
+568,660,"National Chung Hsing University",taiwan,15632,20.3,20.78,20.2,16.8,24.5,42.5,16.9,2016,0.39,4
+569,587,"University of Salamanca",spain,31035,17.9,24.52,26.1,16.9,25.9,31.6,40.8,2016,0.58,12
+570,661,"University of Central Lancashire","united kingdom",18540,17.5,20.77,15.7,9.4,28.2,28.9,54.1,2016,0.57,17
+571,588,"United Arab Emirates University","united arab emirates",9221,12.5,24.47,18.8,14.8,21.7,30.1,95,2016,0.76,26
+572,662,"University of Calcutta",india,18511,32.5,20.67,34.7,8.7,19.8,29.2,13.1,2016,NULL,0
+573,532,"Renmin University of China",china,24954,12.7,27.8,34.7,13.7,30.7,42.5,40.1,2016,NULL,6
+574,589,"University of the Andes, Colombia",colombia,15773,16.9,24.44,21.2,13.8,31.2,28,51.7,2016,0.44,2
+575,662,"Sultan Qaboos University",oman,7089,9,20.67,21.3,10.6,16,37.6,71.5,2016,0.50,3
+576,533,"Oklahoma State University","united states",21270,21.4,27.75,27.5,22.7,33.1,33.7,25.6,2016,0.49,7
+577,664,"Tokushima University",japan,7519,8.9,20.66,25.3,21.6,12.8,59.6,16.8,2016,0.34,3
+578,590,"South China University of Technology",china,41438,17.7,24.39,19.5,22.1,28.1,86.8,17.5,2016,0.33,3
+579,243,"Swedish University of Agricultural Sciences",sweden,3879,4.6,45.22,31.5,32.8,68.1,99.9,40.1,2016,0.67,0
+580,534,"University of Burgundy",france,26612,20.8,27.73,21.4,8.8,46.3,38.35,50.9,2016,0.54,11
+581,665,"Savitribai Phule Pune University",india,4858,14.6,20.66,38.3,12.4,11.4,29.3,17.3,2016,0.25,3
+582,591,"Monterrey Institute of Technology",mexico,14353,20.5,24.36,23.9,12.7,23.4,75.8,59.6,2016,0.40,12
+583,535,"University of Haifa",israel,17758,30.8,27.72,25.5,29.5,26.2,30.3,34.7,2016,0.65,1
+584,666,"University of Castilla-La Mancha",spain,26381,14.3,20.65,18.4,10.3,30.5,29.7,28.6,2016,0.56,3
+585,244,"Copenhagen Business School",denmark,18293,42.7,45.08,19.3,26.5,79.4,35.3,88.5,2016,0.48,19
+586,667,"University of Seoul","south korea",10243,19,20.64,22.8,17.5,21.4,28.9,18.7,2016,0.36,3
+587,592,"Manchester Metropolitan University","united kingdom",28035,18.2,24.27,22.7,10.6,30.8,28.3,57.8,2016,0.57,14
+588,536,"University of the Basque Country",spain,46373,15.3,27.64,18.2,19.6,43.1,30.3,34.9,2016,0.53,5
+589,668,"Pontifical Catholic University of Rio Grande do Sul (PUCRS)",brazil,14797,10.1,20.59,21.1,10.9,27.6,52.3,18.7,2016,0.50,0
+590,593,"Auburn University","united states",22386,17.6,24.2,30.2,19.4,21,37.2,27.9,2016,0.51,4
+591,669,"Chiang Mai University",thailand,35617,16.5,20.58,17.8,9.4,30,32.3,34.9,2016,NULL,1
+592,670,"University of Tehran",iran,53802,27,20.58,27.3,17.7,15.8,44.12,16.5,2016,0.45,1
+593,594,"Paris Dauphine University",france,9565,15.4,24.14,21.9,11.1,27.6,30.6,69.3,2016,0.53,28
+594,671,"Asia University, Taiwan",taiwan,12119,26.3,20.57,14.4,15.9,30.5,38.4,18.3,2016,0.53,3
+595,245,"University of Victoria",canada,17581,21.5,45.06,20.6,30,79,36.6,70.2,2016,0.56,11
+596,595,"University of Regina",canada,11550,22.8,24.12,15.6,15.8,34.2,34.4,47.7,2016,0.61,12
+597,537,"China Agricultural University",china,19342,12,27.62,35.8,24.9,22.6,52.3,17.6,2016,0.57,1
+598,672,"University of Murcia",spain,31460,15.8,20.56,19.3,11.7,28,29.5,28.3,2016,0.62,6
+599,246,"Chalmers University of Technology",sweden,8605,11.6,45.04,36.6,35.3,52.2,79.5,77.6,2016,0.30,15
+600,596,"Bauman Moscow State Technical University","russian federation",18808,4,24.11,44,23.7,3.1,68.1,15.6,2016,NULL,4
+601,673,"Jeonbuk National University","south korea",23270,15,20.54,19.7,14.7,24.5,33.3,27.2,2016,0.45,3
+602,247,"William & Mary","united states",7867,11.8,45.02,38.5,17.5,85,29.1,26.6,2016,0.54,7
+603,674,"Nottingham Trent University","united kingdom",21850,17.4,20.47,16.5,8.9,27.3,28.4,52.7,2016,0.55,17
+604,597,"Panjab University",india,16691,23.9,24.08,24.6,8.8,41,28.1,14.1,2016,0.46,1
+605,675,"Beijing Institute of Technology",china,25983,12.6,20.47,25.9,21.7,9.1,87.6,16.9,2016,0.35,3
+606,598,"Federal University of Rio de Janeiro",brazil,52878,12.8,24.08,32.4,19.7,18.3,42.9,25.1,2016,0.54,2
+607,248,"Tokyo Institute of Technology",japan,9586,7.3,44.78,45.6,47.6,42.2,70.9,31.9,2016,NULL,13
+608,599,"University of Pretoria","south africa",37314,20,24.05,25.6,21.2,17.5,52.4,46,2016,0.57,8
+609,249,"Dalhousie University",canada,15064,14.4,44.63,30.4,29.4,65.2,50.3,78.3,2016,0.55,18
+610,676,"University of Antioquia",colombia,38872,23,20.44,18.1,21.1,14.8,43.6,42,2016,0.50,1
+611,538,"Liverpool John Moores University","united kingdom",18515,19.8,27.55,16.4,11.6,45.9,28.8,62.1,2016,0.52,13
+612,600,"Keio University",japan,33751,11.9,24.04,25,17.5,28.5,41.4,22.7,2016,0.32,5
+613,677,"Glasgow Caledonian University","united kingdom",13525,21.6,20.38,17.1,10.4,24.2,29.9,55,2016,0.60,16
+614,539,"Amirkabir University of Technology",iran,14080,25.6,27.47,24.5,25.7,34.8,55.7,7.7,2016,0.34,1
+615,601,"University of Seville",spain,64931,17.5,24.02,21.5,14.9,32.6,36.7,32,2016,0.55,7
+616,540,"Jadavpur University",india,10697,16.1,27.46,32.8,22.2,31.8,33.8,7.7,2016,0.30,0
+617,602,"National Central University",taiwan,10915,9.8,24.02,26.3,23.2,17.5,75.3,27.1,2016,0.31,6
+618,603,"Texas Tech University","united states",29512,20.9,23.99,27.9,17.2,22,44.12,36.8,2016,0.46,7
+619,541,"Central Queensland University",australia,11452,29.6,27.42,20.9,11.4,43.7,32.5,50.8,2016,0.59,27
+620,604,"Jagiellonian University",poland,42835,11.5,23.94,24,14.4,30.7,28,33.5,2016,0.67,5
+621,605,"University of Bradford","united kingdom",11065,20.5,23.94,18.7,15.9,22.7,32.7,79.1,2016,0.53,32
+622,542,"University of Lisbon",portugal,47849,17.5,27.36,25.9,18.3,32.4,35.4,46.6,2016,0.51,9
+623,606,"Clemson University","united states",19198,17.1,23.92,21.4,19.7,27,35.8,34.6,2016,0.46,8
+624,543,"Otto von Guericke University of Magdeburg",germany,14104,13.1,27.34,22.9,14.4,39.7,37.7,43.9,2016,0.42,13
+625,607,"Miami University","united states",16370,20.5,23.91,19.2,15.7,36.1,30.2,24.8,2016,0.53,7
+626,544,"Chung-Ang University","south korea",13015,17.4,27.28,29.9,27.6,17.4,61.3,43.7,2016,0.45,17
+627,608,"Carlos III University of Madrid",spain,15730,11.4,23.84,23.2,17.4,24.8,34.8,44.7,2016,0.43,9
+628,545,"Edith Cowan University",australia,16671,34.2,27.02,18.9,16.1,35,34.5,68.7,2016,0.61,18
+629,678,"Toyohashi University of Technology (TUT)",japan,2153,9.3,20.17,22,18.9,15.8,50.3,25.4,2016,NULL,9
+630,545,"National Taiwan Normal University",taiwan,11072,13,27.02,26.2,31.3,16.2,81.9,38.1,2016,0.57,19
+631,753,"University of Huddersfield","united kingdom",15435,18.2,16.63,17.4,5.4,16.5,28,55.2,2016,0.54,25
+632,679,"University of Ghana",ghana,37274,37.5,20.17,15.6,15.6,19.5,53.04,48.4,2016,0.41,2
+633,547,"Blaise Pascal University",france,15619,7.1,26.95,20.2,2.9,46.9,38.35,66.6,2016,0.55,17
+634,680,"Slovak University of Technology in Bratislava",slovakia,16400,15.3,20.16,23.3,8.6,24.9,33.2,30.6,2016,0.31,2
+635,754,"Austral University of Chile",chile,13794,17.8,16.6,16.7,9.7,14.2,41.1,45.2,2016,0.47,1
+636,755,"Adam Mickiewicz University, Poznań",poland,40633,15.6,16.54,20,11,15.3,28.7,25.7,2016,0.71,1
+637,681,"University of Pécs",hungary,21819,15.4,20.15,19.7,9,23.4,28.4,50.8,2016,NULL,10
+638,548,"Xi’an Jiaotong University",china,29863,12.3,26.7,28.7,22.5,25.5,70.4,25.8,2016,0.34,4
+639,756,"Kyushu Institute of Technology (Kyutech)",japan,5890,12.1,16.48,19.4,12.5,14.2,44.1,20.7,2016,NULL,4
+640,682,"National University of Science and Technology (MISiS)","russian federation",4441,6.7,20.14,24.8,17.5,10.8,67.2,33.7,2016,0.43,13
+641,549,"Soochow University, China",china,36465,12.9,26.69,19.2,13.7,45.8,75.3,16,2016,0.78,2
+642,757,"Prince of Songkla University",thailand,38274,16.1,16.46,15.3,7,22.2,31.6,31,2016,0.69,1
+643,683,"K.N. Toosi University of Technology",iran,7146,24.6,20.12,20.9,18.1,22.5,45.5,7.1,2016,0.32,0
+644,684,"University of Texas at El Paso","united states",19123,29,20.09,18.6,18.7,18.4,44.12,30.4,2016,0.54,7
+645,758,"University of A Coruña",spain,17062,13,16.18,18.3,10,16.6,38.2,23.4,2016,0.52,2
+646,759,"Chongqing University",china,43955,16,16.12,19.5,15.5,8.7,73.8,15.5,2016,NULL,3
+647,550,"Université de Sherbrooke",canada,13438,5.4,26.64,25.6,9.5,41.3,29.6,39.8,2016,0.54,5
+648,685,"Comenius University in Bratislava",slovakia,20879,9.7,20.09,23,10.3,19.6,28,46.9,2016,0.54,10
+649,760,"California State University, Long Beach","united states",29594,32.3,16.11,11.6,10.4,23.3,44.12,18.9,2016,0.58,5
+650,551,"University of Rennes 1",france,22186,13.9,26.61,17.8,10.3,44.7,31.7,53,2016,0.50,12
+651,761,"Alexandria University",egypt,127431,23.3,16.05,20.3,8.2,14.1,29.7,33.7,2016,0.46,1
+652,762,"University of Silesia in Katowice",poland,32764,17.3,15.92,17.7,8,20.4,28.1,18.5,2016,0.65,1
+653,763,"University of Cergy-Pontoise",france,17000,9.2,15.86,18.7,6.3,13.2,28.6,49.1,2016,0.53,11
+654,764,"University of Indonesia",indonesia,43565,15.8,15.79,18.1,8,13.9,40,37.2,2016,0.51,0
+655,765,"Federal University of Lavras",brazil,10350,20.9,15.75,25.8,16.4,3,44.12,14.5,2016,0.53,1
+656,53,"University of Minnesota","united states",46625,17.5,70.35,60.3,69.8,87,94.2,38.2,2017,0.52,13
+657,766,"Taras Shevchenko National University of Kyiv",ukraine,22686,8.2,15.74,27.9,11,4.2,28,28.2,2016,0.45,2
+658,54,"Nanyang Technological University, Singapore",singapore,25278,16.1,69.96,50.6,60.2,90.7,93.5,95.7,2017,0.49,32
+659,767,"Cairo University",egypt,231941,39.1,15.65,18.9,11.1,11.9,30.3,31,2016,0.47,2
+660,686,"Federal University of Viçosa",brazil,13163,11.4,20.03,39.7,14.5,3.9,59,15,2016,0.70,3
+661,609,"University of Paris North – Paris 13",france,23026,23.4,23.77,17.5,11.6,36.2,28,46.4,2016,0.60,22
+662,55,"University of Manchester","united kingdom",34015,14.4,69.69,58.2,66.3,82.3,45.1,87,2017,0.52,36
+663,768,"University of Santiago, Chile (USACH)",chile,22739,23.6,15.54,17.6,11.3,10.2,31,40.4,2016,0.39,1
+664,610,"Polytechnic University of Valencia",spain,33172,13.6,23.75,20.3,12.7,34.3,43.8,32.9,2016,0.36,7
+665,687,"China University of Petroleum, Beijing",china,14579,19.4,19.95,23.6,26.6,4,100,15.9,2016,NULL,6
+666,56,"University of North Carolina at Chapel Hill","united states",26412,7.5,69.31,61.9,59.6,96.1,41,40,2017,0.57,8
+667,611,"Aristotle University of Thessaloniki",greece,46288,22.2,23.72,22.6,15,29.5,33.6,36.6,2016,0.52,9
+668,688,"National Taiwan Ocean University",taiwan,8240,20.9,19.94,18.1,21,18.2,49.3,20.3,2016,0.30,5
+669,57,"Humboldt University of Berlin",germany,31043,54.8,69.24,62.5,69,79.9,39.4,64.4,2017,NULL,17
+670,612,"Sejong University","south korea",11704,15.5,23.72,18.9,12.2,38.7,35.4,25.2,2016,0.43,3
+671,689,"Aligarh Muslim University",india,11197,10.5,19.9,28.3,10,20.9,29.6,18.7,2016,NULL,2
+672,690,"Chonnam National University","south korea",35779,18.5,19.81,17.5,11.7,29.1,31.4,20.4,2016,0.41,3
+673,613,"King Mongkut’s University of Technology Thonburi",thailand,17791,23.7,23.64,18.2,11.4,36.2,70.3,28.5,2016,0.42,1
+674,691,"Chulalongkorn University",thailand,38719,14.5,19.78,23.8,14.1,16.7,37.8,32.8,2016,0.59,2
+675,692,"University of Delhi",india,32567,22.9,19.77,29.8,10.8,19.1,28.2,15.4,2016,0.50,1
+676,614,"Athens University of Economics and Business",greece,13167,57.5,23.62,13.4,18.8,31.2,66.5,39.2,2016,0.47,6
+677,693,"Rochester Institute of Technology","united states",12965,13.5,19.76,17.4,13.4,25.1,30.4,29.8,2016,0.34,13
+678,694,"University of Greenwich","united kingdom",18095,24.6,19.76,15.7,9.5,17.7,30,81.8,2016,0.53,32
+679,769,"University of Dhaka",bangladesh,62716,6.9,15.44,21.7,7.2,9.6,44.12,37.2,2016,0.34,5
+680,695,"University of Chemistry and Technology, Prague","czech republic",4699,11,19.74,21.6,12,17.4,38.9,46.3,2016,NULL,18
+681,615,"Lille 1 University – Science and Technology",france,19599,14.5,23.62,20,8.6,32.4,31.8,60.3,2016,0.41,18
+682,696,"Jilin University",china,65605,13.6,19.74,28.2,14.4,14.6,42.1,20.3,2016,0.46,3
+683,616,"Chiba University",japan,14554,12.3,23.51,26.9,16.8,24.8,55.3,21,2016,0.37,5
+684,697,"University of Science and Technology Beijing",china,22780,15.1,19.73,25.1,22.4,6.9,89.7,15.6,2016,0.36,4
+685,698,"University of Brighton","united kingdom",16925,19.5,19.7,16.7,10.7,20.1,29.4,62.8,2016,0.58,19
+686,617,"Middlesex University","united kingdom",17755,24.7,23.47,18.5,10.6,25.7,38.35,81,2016,0.59,44
+687,58,"Washington University in St Louis","united states",12528,5.7,69.13,60.7,56.2,99.1,36.9,45.5,2017,NULL,17
+688,699,"Dublin Institute of Technology",ireland,13839,18.9,19.67,16.1,8.8,20.7,28.1,70.5,2016,0.41,25
+689,59,"Delft University of Technology",netherlands,16174,18.9,67.86,56.2,72.9,67.3,99.9,85.9,2017,0.27,25
+690,700,"University of Debrecen",hungary,29714,20.3,19.66,17.3,11.4,20.9,44.12,49,2016,0.57,13
+691,618,"Chang Gung University",taiwan,7506,12.6,23.45,19.3,24.7,27.6,31.9,15.7,2016,0.42,0
+692,60,"University of Southern California","united states",38466,13.6,67.25,50.5,60,94.7,39.4,62.7,2017,0.52,23
+693,61,"The University of Sydney",australia,42678,19,67.18,51.3,63.2,83.2,63.9,83.7,2017,0.57,29
+694,701,"University of Szeged",hungary,22684,13.8,19.65,20,10.5,20.5,33.2,46.9,2016,0.58,9
+695,619,"Dalian University of Technology",china,34326,15.2,23.42,22.6,19,23.5,93.3,20.7,2016,0.33,2
+696,62,"The University of Queensland",australia,38892,35.4,67.18,49.7,60.1,86.1,70.6,88.6,2017,0.55,25
+697,702,"Universidade Estadual Paulista (Unesp)",brazil,50594,13,19.6,28,22.6,6.7,40.1,18.7,2016,0.52,5
+698,63,"University of Amsterdam",netherlands,25344,14.3,67.07,49.4,62,90.3,54.6,69.3,2017,0.58,10
+699,703,"Konkuk University","south korea",26483,23.5,19.57,20,19.6,17,36,22.6,2016,0.47,6
+700,770,"West University of Timişoara",romania,12933,19,15.4,16.1,3.9,22.4,44.12,21,2016,0.62,2
+701,64,"Boston University","united states",24714,8.4,66.88,60.2,48.5,97.7,34.4,54.6,2017,0.59,19
+702,620,"Yokohama City University",japan,4122,3.7,23.34,24,10.2,36.4,37.9,16.1,2016,NULL,3
+703,704,"Shantou University",china,9593,13.5,19.57,17.6,9.1,28.3,30.7,30.7,2016,0.48,0
+704,771,"Erciyes University",turkey,28079,28,15.37,15.5,10.9,18,30.3,17.2,2016,0.46,2
+705,65,"Wageningen University & Research",netherlands,9535,15.6,66.58,51.8,50.1,92.8,100,75.6,2017,0.56,23
+706,705,"Yeungnam University","south korea",21958,15.3,19.51,18.6,10.9,26.5,35.4,24.3,2016,0.48,3
+707,772,"Fu Jen Catholic University",taiwan,25951,22.8,15.33,14.4,9.8,18.2,47,19.1,2016,0.59,4
+708,66,"École Normale Supérieure",france,1548,9.6,65.78,59.8,52.3,85.8,40,72.2,2017,0.40,18
+709,706,"Capital Medical University",china,11506,7.1,19.38,26.3,14.9,16.3,28.8,18.8,2016,0.70,3
+710,773,"Tottori University",japan,6248,8.2,15.32,24.3,10.1,9.6,34.5,16.7,2016,0.34,2
+711,67,"University of Maryland, College Park","united states",31353,16.8,65.31,51,63.2,91.1,38.5,36.7,2017,0.48,9
+712,707,"Gifu University",japan,7318,12.4,19.31,25.4,16.9,14.7,32.8,18.5,2016,0.35,4
+713,774,"Showa University",japan,3675,2.5,15.17,28.5,7.9,7,44.12,14,2016,0.57,0
+714,68,"Penn State (Main campus)","united states",45359,12.3,65.04,55.6,63.3,82.9,51.9,42.7,2017,0.46,13
+715,775,"Ocean University of China",china,36205,20.6,15.17,18.9,10.7,12.9,50.1,15.6,2016,0.40,1
+716,69,"Erasmus University Rotterdam",netherlands,21854,20.6,64.58,38.8,56.8,95.6,57.7,77.1,2017,0.49,19
+717,776,"The University of Jordan",jordan,35577,13.6,15.1,19,7.7,7.8,28.8,53.7,2016,0.67,13
+718,70,"Purdue University West Lafayette","united states",38788,17.7,64.54,57.2,66.8,69,62.5,67.7,2017,0.42,22
+719,777,"Birla Institute of Technology and Science, Pilani",india,11837,19.5,14.97,18.3,8.3,17.4,29.6,13.7,2016,NULL,0
+720,71,"University of Bristol","united kingdom",18545,13.6,64.35,45.9,51.7,92.7,40.9,83.2,2017,0.52,25
+721,778,"Universidade do Estado do Rio de Janeiro (UERJ)",brazil,28757,10.1,14.96,21.7,9.1,12.3,30.8,16.8,2016,0.46,0
+722,72,"Ohio State University (Main campus)","united states",52497,12.8,64.25,57,53.1,86.2,50.6,54.6,2017,0.49,12
+723,621,"Waseda University",japan,52316,16.9,23.32,23.6,14.6,29.4,32.4,29.7,2016,0.35,8
+724,779,"Pontifical Catholic University of Valparaíso",chile,13493,10.4,14.82,18.4,8,10.4,44.3,35.7,2016,0.45,0
+725,622,"Sogang University","south korea",10625,24.1,23.29,21.5,24.8,20.5,46.8,27.7,2016,0.43,7
+726,780,"University of Brasília",brazil,45880,14.5,14.82,21.9,7.4,10.4,44.12,24.1,2016,0.52,2
+727,781,"Belarusian State University",belarus,29303,10.6,14.78,20.2,8.7,6,28,48.2,2016,0.69,6
+728,73,"Seoul National University","south korea",26777,13.1,64.2,70.2,69.8,58.8,85.2,32.4,2017,NULL,11
+729,782,"Universidade Federal da Bahia",brazil,39861,17.9,14.76,18.2,8.1,14.3,44.12,19.7,2016,0.47,1
+730,623,"Warsaw University of Technology",poland,34572,14.5,23.2,19.4,8.5,40.3,47.4,20.7,2016,0.34,3
+731,74,"Monash University",australia,44217,34.5,64.05,49.5,57.4,78.5,76,87.1,2017,0.57,25
+732,783,"Xidian University",china,31618,16.4,14.72,17.9,12.1,8.9,83.7,12.8,2016,0.29,2
+733,624,"Kingston University","united kingdom",20780,20.9,23.18,16.9,12.1,26.7,28.5,76.8,2016,0.53,34
+734,75,"Free University of Berlin",germany,32909,53.9,63.7,58.1,67.3,66.9,38.9,67.2,2017,0.58,21
+735,784,"University of Marrakech Cadi Ayyad",morocco,56060,38.7,14.67,17.4,6.3,12.1,29.2,42.7,2016,0.46,1
+736,76,"Chinese University of Hong Kong","hong kong",18433,10.5,63.58,52.2,60.4,74.6,44.7,84,2017,NULL,27
+737,785,"Yıldız Technical University",turkey,31268,28.7,14.64,14.5,7.6,19.3,44,14.9,2016,0.36,2
+738,77,"Leiden University",netherlands,23597,17.8,63.32,46.1,57.9,86.1,47.3,68.1,2017,0.59,11
+739,786,"Universidade Federal do Paraná (UFPR)",brazil,21850,11.2,14.63,24.6,9.6,7,44.12,15.5,2016,NULL,1
+740,625,"University of the West of England","united kingdom",22525,21.4,23.16,16.9,11.2,34.6,28.5,48.5,2016,0.53,15
+741,78,"UNSW Sydney",australia,39121,26.3,63.03,43.2,58.6,81.4,49.7,91,2017,0.46,32
+742,787,"University of South Africa","south africa",197102,108.5,14.6,18.4,11.3,9.4,28.8,28.7,2016,0.65,9
+743,626,"Eötvös Loránd University",hungary,28698,22.4,23.16,21.3,12.1,30.6,29.3,43,2016,NULL,4
+744,788,"Tokai University",japan,29700,12.7,14.55,17.9,7.6,15.3,34.4,19.3,2016,0.27,1
+745,79,"RWTH Aachen University",germany,42298,54.9,62.98,53.3,63.7,71.3,99.4,53.4,2017,0.32,17
+746,789,"Northwestern Polytechnical University",china,23056,14.1,14.53,23.4,15.4,3.5,28,15.2,2016,0.25,3
+747,80,"University of Pittsburgh-Pittsburgh campus","united states",26501,5.9,62.24,49.2,51.9,94.2,39.6,35.4,2017,0.51,10
+748,708,"National Chung Cheng University",taiwan,11989,22.9,19.28,21.3,20.3,15.7,40.8,14.2,2016,NULL,1
+749,627,"Florida Institute of Technology","united states",4408,13.7,23.06,20.4,13.5,24.6,33.4,62.4,2016,0.34,26
+750,790,"University of Electronic Science and Technology of China",china,21689,9.8,14.36,20.5,12.9,8.8,28,13.4,2016,NULL,0
+751,81,"University of Groningen",netherlands,25281,24.4,62.21,41.9,55.1,87.1,79.9,66.4,2017,0.52,13
+752,628,"Taipei Medical University",taiwan,6001,11.1,22.96,25.7,21.7,19,42.2,26.5,2016,0.58,6
+753,791,"University of Ibadan",nigeria,26247,17.1,14.21,22.7,11.1,4.6,29.2,26.1,2016,0.45,1
+754,82,"Emory University","united states",12649,4.4,62.03,52.9,39.7,97.4,43.2,52.7,2017,0.57,19
+755,629,"Kobe University",japan,15885,8.4,22.96,27.8,15.4,24.3,45.1,21.1,2016,0.33,6
+756,83,"Technical University of Berlin",germany,20548,60.3,62.03,49.8,59.3,74.3,98,60.8,2017,0.34,19
+757,791,"Sophia University",japan,12799,24.3,14.21,22,9.4,5.3,29.5,32.8,2016,0.53,8
+758,84,"Dartmouth College","united states",6109,6.7,62.01,58.6,41.1,94.2,39.9,37.9,2017,0.47,15
+759,793,"Andhra University",india,10407,20.2,14.19,34.8,6.9,1.2,31.3,7.2,2016,0.36,3
+760,85,"University of Warwick","united kingdom",18560,14.6,61.97,46.8,52.6,80.9,40.8,91.4,2017,0.47,38
+761,794,"Gdańsk University of Technology",poland,25217,23.3,14.19,15.5,9.5,15.2,36.8,16.1,2016,0.39,1
+762,86,"Utrecht University",netherlands,31142,15.6,61.93,46.1,48.5,90.7,80.7,57.6,2017,0.59,7
+763,795,"I-Shou University",taiwan,16263,29.9,14.16,12.8,11.5,13.3,41,24.8,2016,0.45,10
+764,87,"Rice University","united states",6447,9,61.71,46.9,38.7,99.1,43.4,69.5,2017,0.43,27
+765,796,"Universiti Teknologi MARA",malaysia,69268,16.8,14.15,15.2,7.7,18.2,28.3,14.8,2016,0.65,0
+766,630,"Tomsk State University","russian federation",10413,9.9,22.83,34.8,20.8,7.6,44,36.9,2016,0.60,12
+767,88,"University of Glasgow","united kingdom",22855,15.3,61.33,40.6,47.8,90.6,39.4,88.6,2017,0.57,32
+768,797,"University of Pardubice","czech republic",10671,19.8,14.13,15.9,11.9,11.1,28.3,23.4,2016,0.55,4
+769,89,"Korea Advanced Institute of Science and Technology (KAIST)","south korea",9327,9.5,61.29,55.7,53.2,78.5,100,34.3,2017,NULL,9
+770,631,"Tokyo University of Science",japan,20243,25.7,22.64,23,24.1,21.4,37.6,15.4,2016,NULL,2
+771,798,"Southern Federal University","russian federation",27556,9,14.08,21.9,8.2,9.2,39.5,17.3,2016,0.56,3
+772,90,"University of Tübingen",germany,28074,37.3,61.27,46,56.2,82.9,56.3,57.8,2017,0.58,11
+773,799,"National University of Córdoba",argentina,108373,38.1,14.07,16,9,12.5,28.6,28.1,2016,0.62,2
+774,91,"University of Helsinki",finland,23369,17,61.22,47,57.6,83.5,34.9,52.2,2017,0.65,6
+775,800,"V.N. Karazin Kharkiv National University",ukraine,14410,9.7,14.04,21.7,8.9,1.7,28.8,48.4,2016,0.53,22
+776,92,"Kyoto University",japan,22547,5.5,61.19,70.2,70.1,50.4,75.1,28,2017,NULL,7
+777,1,"University of Oxford","united kingdom",19720,10.9,95.02,89.6,99.1,99.2,62.5,94.5,2017,0.46,35
+778,93,"Uppsala University",sweden,25275,16.6,61.09,43,57.1,85.2,40.4,59.9,2017,0.57,12
+779,2,"California Institute of Technology","united states",2181,6.7,94.32,95.5,95.7,99.8,90.8,63.4,2017,0.31,27
+780,94,"Maastricht University",netherlands,16030,18.3,61,39.2,48.6,84.4,85.7,96,2017,0.58,47
+781,709,"University of West Bohemia","czech republic",15639,21.5,19.27,16.3,9.7,29.8,32.1,23.1,2016,0.52,2
+782,632,"Ohio University (Main campus)","united states",22224,20,22.62,25,14.9,24.6,30.1,33.6,2016,0.50,9
+783,3,"Stanford University","united states",15658,7.7,93.78,92.6,95.9,99.9,60.9,76.5,2017,0.42,22
+784,710,"Ajou University","south korea",12706,11.3,19.23,19.5,11.9,23.9,45.7,20,2016,0.33,2
+785,95,"University of Freiburg",germany,25890,33.7,60.9,45.9,49.9,83.6,100,61.1,2017,0.52,16
+786,633,"Juntendo University",japan,3955,3.7,22.57,32.3,10.5,24,51.1,16.7,2016,0.52,1
+787,4,"University of Cambridge","united kingdom",18605,11.3,93.57,90.6,97.2,96.8,50.4,92.4,2017,0.45,35
+788,711,"Pontifícia Universidade Católica do Paraná",brazil,7741,10.9,19.22,18.4,6.5,32.2,28,18.6,2016,NULL,2
+789,96,"Lund University",sweden,28852,12,60.59,41.3,53.1,83.2,68.5,74.6,2017,0.53,15
+790,5,"Massachusetts Institute of Technology","united states",11192,8.8,93.38,90.3,92.3,99.9,88.4,85.6,2017,0.37,33
+791,634,"Auckland University of Technology","new zealand",18981,18.1,22.52,17.3,9.8,21.7,28.5,95.6,2016,0.58,38
+792,712,"University of Southern Queensland",australia,13761,29.2,19.21,18.4,13.1,14.4,28.8,63,2016,0.55,21
+793,97,"Durham University","united kingdom",15705,15.3,60.56,43,49,85,37.4,87,2017,0.54,26
+794,6,"Harvard University","united states",19890,8.8,92.68,87.5,98.3,99.7,47.3,77.9,2017,NULL,25
+795,635,"Inha University","south korea",20353,24.1,22.34,20.7,20,22.5,64.7,23.5,2016,0.36,3
+796,98,"University of Basel",switzerland,12560,17.4,60.35,40.1,36.8,92.4,99.3,94.4,2017,0.54,24
+797,7,"Princeton University","united states",7925,8.4,90.17,89.5,88.4,99.2,49.9,77.2,2017,0.45,23
+798,713,"University of Latvia",latvia,15100,26.5,19.18,22.6,10.2,20.9,28.3,31.5,2016,0.68,3
+799,8,"Imperial College London","united kingdom",15235,11.3,90.02,86.4,86.6,97.3,67.5,96.5,2017,0.37,52
+800,99,"Aarhus University",denmark,24633,13.9,60.32,39,54.7,83,65.4,75.7,2017,0.55,14
+801,9,"ETH Zurich",switzerland,18616,14.9,89.26,81.5,93.7,92.5,63.7,98.1,2017,0.31,37
+802,636,"Federal University of Minas Gerais",brazil,42612,13.5,22.31,27.9,15.4,23.1,30.7,21.6,2016,0.55,1
+803,100,"University of California, Irvine","united states",29304,17.2,60.29,42.5,45,94.1,45.5,62.3,2017,0.53,18
+804,101,"Michigan State University","united states",45297,15.8,59.85,51.6,48.9,81.1,38.5,58.8,2017,0.51,16
+805,714,"Chung Yuan Christian University",taiwan,15020,30.2,19.07,15.9,22.1,17.4,41.9,18.7,2016,0.41,3
+806,102,"University of Mannheim",germany,10808,84,59.85,39.1,51.3,88.3,76.4,57.7,2017,0.55,14
+807,10,"The University of Chicago","united states",13486,6.2,88.92,88.1,89.1,99.1,37.7,67.8,2017,0.42,24
+808,715,"Kyungpook National University","south korea",27152,14.4,19.06,21.1,16,18.1,34.9,21.7,2016,0.42,3
+809,103,"Université de Montréal",canada,37651,20.2,59.67,46.8,47.8,77.4,67.7,85,2017,0.58,24
+810,104,"Georgetown University","united states",15726,8.6,59.59,56.7,39.3,84.6,74.4,47.3,2017,0.54,15
+811,105,"Pohang University of Science and Technology (POSTECH)","south korea",3017,10,59.56,53.8,48.7,79.2,99.6,34.2,2017,NULL,4
+812,637,"Northumbria University","united kingdom",22750,19.4,22.2,17.7,10.9,29.2,29.1,55.1,2016,0.55,16
+813,638,"Technical University of Madrid",spain,41500,13.8,22.19,21.8,14.6,24.5,38.3,39.5,2016,0.32,11
+814,716,"University of Bucharest",romania,31806,24.9,19.04,34.3,11.5,9.9,29.5,21.3,2016,0.70,2
+815,106,"University of Zurich",switzerland,26042,6.1,59.52,46.4,38.5,87.5,44.2,89.3,2017,0.57,18
+816,639,"National University of Sciences and Technology",pakistan,9808,7.8,22.15,21.4,7,35,31.3,31.3,2016,0.27,3
+817,717,"Kindai University",japan,31216,11.6,19.02,18.5,7.9,30,33.2,17,2016,NULL,2
+818,107,"University of Alberta",canada,33159,21.1,59.46,49.5,53,69.9,61.3,82.7,2017,0.55,24
+819,108,"Vanderbilt University","united states",12161,3.1,59.3,50.1,37.3,96.7,73.5,29.8,2017,0.52,9
+820,640,"University of Ljubljana",slovenia,48821,17.6,22.14,24.9,13.6,24,32.3,34.5,2016,0.60,4
+821,109,"University of Sheffield","united kingdom",23960,15.3,59.13,42.3,47.6,82.7,44.7,83.1,2017,0.50,33
+822,718,"Budapest University of Technology and Economics",hungary,22447,22.1,18.99,17.1,13.7,21.6,39.7,30.4,2016,0.32,4
+823,110,"University of Bern",switzerland,14651,23.3,58.87,43.2,43,82.8,75.5,83.8,2017,0.55,14
+824,719,"Coventry University","united kingdom",21935,14.8,18.91,17.1,7.7,18.4,29.1,69.6,2016,0.47,35
+825,641,"University of Lincoln","united kingdom",10665,18.9,22.13,17.9,11.9,26.4,29.3,60.5,2016,0.54,11
+826,720,"American University of Sharjah","united arab emirates",5226,14.1,18.89,12.4,10.6,13.3,33.3,95.6,2016,0.48,82
+827,642,"Okayama University",japan,13035,8.6,22.1,24.3,14.9,25.3,48,20.6,2016,0.38,3
+828,111,"University of St Andrews","united kingdom",8455,12.2,58.86,45.2,44.3,80.3,33.7,94.3,2017,0.57,46
+829,721,"Chungnam National University","south korea",18361,17.2,18.71,23.2,17.7,13.2,39.9,19.8,2016,NULL,3
+830,643,"China University of Geosciences, Wuhan",china,29483,20.7,22.02,21.1,21.4,21.5,64.5,16.1,2016,NULL,2
+831,112,"University of Göttingen",germany,26549,26.1,58.76,49.7,48,81.1,34.8,56.6,2017,0.50,12
+832,722,"Hunan University",china,42756,24.7,18.63,18.3,15,21.2,46.7,14.8,2016,0.43,2
+833,644,"University of Alcalá",spain,30812,25.1,21.96,17.6,11.2,28.3,43.3,50,2016,0.53,18
+834,113,"McMaster University",canada,23943,20.4,58.73,43.5,45.4,82.3,66.1,76.2,2017,0.52,16
+835,114,"Queen Mary University of London","united kingdom",14500,13.2,58.71,34,39.7,95.1,40,94.3,2017,0.52,42
+836,723,"AGH University of Krakow",poland,35569,17,18.53,14.2,3.7,35.7,44.12,17.9,2016,NULL,0
+837,645,"University of Salford","united kingdom",16150,17,21.93,20.8,12.1,21.2,28.8,66.4,2016,0.51,25
+838,724,"University of Southern Mississippi","united states",14569,18.5,18.43,21,11.8,20.1,39.9,20.8,2016,0.63,3
+839,115,"University of Bonn",germany,33939,73.3,58.67,47.2,40.8,88.3,37.3,64.6,2017,0.55,13
+840,725,"Universidade Federal de Santa Catarina",brazil,26078,12.6,18.37,26,12.2,14.2,42.9,21,2016,0.48,1
+841,646,"University of Westminster","united kingdom",16610,20.9,21.88,17.3,11.7,21.1,28.5,81.9,2016,0.57,43
+842,726,"Sheffield Hallam University","united kingdom",27475,18.8,18.28,17.3,9.4,20.1,28.6,47,2016,0.53,15
+843,647,"Istanbul University",turkey,82096,41.1,21.79,26,23.3,10,100,20,2016,0.44,6
+844,116,"École Polytechnique",france,2669,5,58.64,58.6,40.6,67.2,71.9,92.3,2017,NULL,31
+845,11,"University of California, Berkeley","united states",34834,12,88.9,82.4,96.1,99.8,37.6,59.6,2017,0.52,16
+846,117,"University of Colorado Boulder","united states",29741,16.3,58.6,42.5,43.7,96.1,38,39.4,2017,0.44,9
+847,648,"Kumamoto University",japan,10226,7.6,21.67,23.4,11.6,28.1,43.1,22.2,2016,0.37,5
+848,12,"Yale University","united states",11946,4.4,88.16,88.5,87.8,97.8,44.5,64.3,2017,0.49,21
+849,118,"Ghent University",belgium,35374,37,58.5,43,55.5,75.7,84.4,55.1,2017,0.53,9
+850,13,"University of Pennsylvania","united states",20367,6.5,87.02,85.9,88.9,98.6,49.9,50.1,2017,0.51,20
+851,649,"Qatar University",qatar,9583,19,21.62,9.9,10.3,22.3,55.2,99.9,2016,0.74,42
+852,14,"University of California, Los Angeles","united states",38392,9.9,86.62,82.9,89,98.4,47.1,58,2017,0.53,16
+853,119,"City University of Hong Kong","hong kong",9871,11.6,58.38,42.1,44.5,81.6,66.4,83.5,2017,0.52,30
+854,120,"University of Copenhagen",denmark,29796,4.2,58.19,46.8,33.1,89.8,44.2,82.3,2017,0.62,17
+855,121,"University of Southampton","united kingdom",21050,12.8,58.18,39.2,46.1,82.8,39.2,90.2,2017,0.53,31
+856,650,"Universiti Putra Malaysia",malaysia,23883,12.2,21.53,25.3,20.9,10.2,34.2,50.1,2016,0.63,15
+857,727,"Universiti Kebangsaan Malaysia",malaysia,24227,11.8,18.27,24.3,15.9,10.9,28.4,29.7,2016,0.62,12
+858,15,UCL,"united kingdom",28600,10.6,86.54,77.4,90,94,41.9,94.3,2017,0.56,47
+859,122,"Pierre and Marie Curie University",france,28473,8,58.15,52.9,33.7,86.2,38.2,71.4,2017,0.48,17
+860,123,"Radboud University Nijmegen",netherlands,19079,19.1,58.09,35,50.6,87.2,45.2,68.3,2017,0.57,11
+861,16,"Columbia University","united states",25659,6,86.09,86.9,78.9,98.6,44.9,75.3,2017,NULL,30
+862,17,"Johns Hopkins University","united states",15303,3.5,85.86,77.4,84.3,98.4,100,71.1,2017,0.51,24
+863,651,"Vilnius University",lithuania,19019,14.2,21.48,18.3,13.6,26.1,41,40.8,2016,0.65,4
+864,124,"University of Virginia (Main campus)","united states",23797,10,58.06,53.7,38.6,86.6,41.9,44.6,2017,0.53,12
+865,18,"Duke University","united states",15204,4.8,84.71,80.7,80,98.8,100,58.2,2017,0.49,17
+866,125,"The University of Western Australia",australia,20777,23,58.05,32.3,44.9,89,48.8,92.9,2017,0.50,27
+867,126,"University of Exeter","united kingdom",18235,17.5,57.87,34.6,39.2,94.3,34.9,87.6,2017,0.55,27
+868,19,"Cornell University","united states",21593,9.9,84.58,79.7,86.5,97.2,36,62.2,2017,0.49,19
+869,20,"Northwestern University","united states",18570,14,83.69,75.8,85,97,85.8,56.1,2017,0.48,16
+870,728,"Suranaree University of Technology",thailand,12650,32.9,18.23,21.1,11.6,18.4,38.1,25.9,2016,0.50,1
+871,152,"University of Rochester","united states",9628,4.5,54.95,43.4,32.4,89.4,38.9,58.9,2017,0.51,28
+872,153,"University of Lausanne",switzerland,12647,13.5,54.86,31.8,46.6,75.6,76.1,90.1,2017,NULL,24
+873,729,"Oakland University","united states",14584,19.8,18.08,18.1,11.9,21.9,30.3,23.3,2016,0.60,2
+874,154,"University of Science and Technology of China",china,14827,8.1,54.72,51.8,43.4,74.7,77.6,24.2,2017,NULL,3
+875,730,"Hacettepe University",turkey,39606,20.4,17.92,21,11.8,19.7,28.2,19.6,2016,0.56,4
+876,21,"University of Michigan-Ann Arbor","united states",41912,8.8,83.58,79.4,86.1,95.8,43.9,54.6,2017,0.48,16
+877,155,"University of Twente",netherlands,6583,12.5,54.67,36.8,46.7,70.8,84.6,83.6,2017,0.36,28
+878,22,"University of Toronto",canada,68093,18.8,82.93,74.6,86.3,91.9,48.8,78.3,2017,NULL,16
+879,156,"Fudan University",china,32449,12.1,54.54,55.3,47,65.7,53.2,37.5,2017,0.50,11
+880,23,"Carnegie Mellon University","united states",12311,13.2,81.82,70.2,84,99.3,51.8,59.6,2017,0.38,38
+881,157,"University of Arizona","united states",37023,12.8,54.51,42.9,42.2,83.2,35.6,41.7,2017,0.52,9
+882,24,"National University of Singapore",singapore,31111,16.7,81.72,76.7,86.9,79.7,61.3,96,2017,0.50,32
+883,158,"Vrije Universiteit Amsterdam",netherlands,24592,15.5,54.48,33.1,40.2,89.4,50.3,58.9,2017,0.56,7
+884,25,"London School of Economics and Political Science","united kingdom",9400,11.8,80.24,70.8,74.7,96.3,34.8,91,2017,0.53,70
+885,159,"University of Liverpool","united kingdom",19085,11.7,54.31,35.1,35.2,85.7,37.4,87.7,2017,0.53,34
+886,26,"University of Washington","united states",45162,11.9,80.19,70.2,80.4,98.8,49.8,55,2017,0.53,15
+887,160,"KTH Royal Institute of Technology",sweden,12841,15.9,54.09,42.5,45.3,67.4,51.1,83.3,2017,0.31,17
+888,127,"Case Western Reserve University","united states",9622,6.6,57.86,50.2,38.9,90.2,36.8,42,2017,0.48,18
+889,161,"University of Erlangen-Nuremberg",germany,37882,55.4,53.96,38.7,43.6,77.3,96,49.1,2017,0.49,9
+890,27,"University of Edinburgh","united kingdom",25280,12.5,79.2,67.5,74.7,96,35,91.5,2017,0.59,37
+891,731,"National Taipei University of Technology",taiwan,10227,16.5,17.87,17.8,14.6,16.4,81.3,16,2016,0.25,3
+892,162,"University of Münster",germany,41807,42.4,53.94,40.8,38.3,84.4,62.6,44.3,2017,0.53,6
+893,163,"University of Vienna",austria,34711,20.3,53.89,41.1,46.6,65.9,33.5,93,2017,0.67,26
+894,128,"Université Catholique de Louvain",belgium,23916,38.1,57.78,39.6,51.3,78.5,51.5,75.6,2017,0.54,19
+895,28,"Karolinska Institute",sweden,7723,11.3,77.57,62.1,76,95.9,72.1,74.2,2017,0.69,23
+896,164,"Autonomous University of Barcelona",spain,31095,12.4,53.67,39.4,36.4,86.7,39.9,52.3,2017,0.59,11
+897,731,"Alexandru Ioan Cuza University",romania,25724,33,17.87,24.9,13.6,7,28.2,46.9,2016,0.63,5
+898,129,"University of York","united kingdom",14675,15.3,57.65,42.5,45.9,79.8,34.1,84.5,2017,0.55,26
+899,29,"Peking University",china,42977,8.8,77.22,84.6,80.3,71.6,100,50.3,2017,0.48,15
+900,165,"TU Dresden",germany,35468,36.3,53.53,42.3,45.6,70.2,95.7,49.4,2017,0.42,12
+901,733,"Ural Federal University","russian federation",28427,10.1,17.85,24.8,10.6,16.8,35.6,17.3,2016,0.48,3
+902,130,"University of Birmingham","united kingdom",26360,16.7,57.6,38.6,42.4,86.8,38,84.2,2017,0.54,25
+903,30,"LMU Munich",germany,36180,15.7,76.8,70.5,73.4,87.4,100,65.4,2017,0.61,14
+904,166,"University of California, Riverside","united states",20901,22.6,53.41,32,33.7,93.4,40.5,62.2,2017,0.51,13
+905,131,"Trinity College Dublin",ireland,15805,23.4,57.22,44.2,45.3,75.4,38.6,90.4,2017,0.58,25
+906,31,"École Polytechnique Fédérale de Lausanne",switzerland,9750,11.2,76.79,62.9,66.1,96.5,69.8,98.6,2017,0.27,54
+907,734,"Shahid Beheshti University",iran,17800,24.9,17.78,20.5,19,11.4,58.9,13.8,2016,0.52,1
+908,167,"University of East Anglia","united kingdom",13995,13.9,53.39,30.7,31.1,92.4,32.4,84.3,2017,0.58,28
+909,735,"Saitama University",japan,7469,11.7,17.76,18.6,9.6,23.4,29.6,20.6,2016,0.33,2
+910,168,"University of Auckland","new zealand",30287,18.9,53.37,32.8,40.8,75.8,70.5,90.5,2017,0.54,29
+911,32,"New York University","united states",43021,6.6,76.67,75.1,68.8,95.3,33.6,54.3,2017,0.55,25
+912,736,"Federal University of São Carlos",brazil,18587,16.9,17.75,29,10.8,11.5,44.12,16.8,2016,NULL,0
+913,737,"University of Belgrade",serbia,96968,28.3,17.71,20.4,13.2,14,45.6,30.5,2016,0.60,4
+914,169,"University of Massachusetts","united states",58624,13.1,53.36,40.4,34.8,85.6,50.2,51.5,2017,0.49,13
+915,738,"Tokyo University of Marine Science and Technology",japan,2597,11.1,17.69,27.9,12.4,7.7,57.9,24.5,2016,0.34,7
+916,33,"University of Melbourne",australia,42273,24.8,76.34,65.4,73.6,88.1,63.7,88.3,2017,0.55,37
+917,170,"Texas A&M University","united states",53694,22.1,53.17,53.1,57,50.7,46.9,50.1,2017,0.47,9
+918,34,"Georgia Institute of Technology","united states",19847,19.8,76.26,60.8,79.2,90.8,62.3,72.8,2017,0.31,26
+919,171,"University of Cologne",germany,44882,41.3,53.11,40.2,38.3,79.2,64.3,55.9,2017,0.61,11
+920,739,"Shinshu University",japan,11232,9.6,17.64,20.8,8.3,22,31.6,20.3,2016,NULL,3
+921,35,"Tsinghua University",china,41537,14.1,76.22,78.9,89.6,67.4,99.7,39.4,2017,0.32,10
+922,740,"Yokohama National University",japan,10117,12.1,17.64,20.1,16,13.5,40.4,23.3,2016,0.28,7
+923,36,"University of British Columbia",canada,51889,18.2,75.91,61.2,72.5,92.9,41.1,92,2017,0.54,29
+924,172,"University of Gothenburg",sweden,17761,10.6,53.08,30.3,40.5,87.9,39.9,59.6,2017,NULL,12
+925,132,"Arizona State University (Tempe)","united states",43082,20.1,57.17,38.5,48.9,87.7,36.6,49.7,2017,0.44,16
+926,741,"Shanghai University",china,46044,17.5,17.33,19.1,16.1,14.8,45.7,15.8,2016,0.48,3
+927,173,"University of Leicester","united kingdom",14180,12.5,52.96,30.9,32.4,88.4,35.1,87.6,2017,0.53,36
+928,742,"Anadolu University",turkey,379231,162.6,17.28,12.2,22.6,10.9,100,14.3,2016,0.78,1
+929,174,"Royal Holloway, University of London","united kingdom",8550,15.3,52.9,33.3,32.3,84.5,35.7,93,2017,0.58,38
+930,133,"University of Oslo",norway,27215,18.7,56.9,39.7,43.1,85.5,42.9,71.2,2017,0.54,18
+931,175,"University of Waterloo",canada,31776,24.8,52.89,37.8,44.9,70.8,41,77.5,2017,0.45,15
+932,134,"University of Leeds","united kingdom",27790,15,56.82,42.3,43,81.3,39,78.2,2017,0.59,22
+933,37,"King’s College London","united kingdom",21985,11.3,75.9,61.5,71,93.5,42.5,93.8,2017,0.61,38
+934,176,"Pompeu Fabra University",spain,10791,20.1,52.82,30.3,33,93.1,40.5,65.1,2017,0.59,12
+935,135,"University of Florida","united states",44911,17,56.66,53.6,48.1,72.9,65.7,35.2,2017,0.54,9
+936,38,"University of Illinois at Urbana-Champaign","united states",43202,18.3,75.87,65.6,81.4,89.3,50.3,49.7,2017,0.46,22
+937,136,"Ulm University",germany,10370,27.3,56.56,38.2,38.1,91,84,56.9,2017,0.47,12
+938,177,"Technical University of Denmark",denmark,8063,5.7,52.5,38.3,30,80.2,60.6,85.8,2017,0.27,18
+939,39,"The University of Tokyo",japan,26080,7,74.13,83.4,89.2,62.4,53.4,30.6,2017,NULL,10
+940,178,"Eindhoven University of Technology",netherlands,10015,19.4,52.36,36.6,43.5,71.7,56.9,72,2017,NULL,14
+941,40,"KU Leuven",belgium,46381,41.9,73.79,57,73.7,90.1,99.8,67.4,2017,0.49,16
+942,179,"University of Luxembourg",luxembourg,5219,17.2,52.16,29.7,30,85.8,40.6,99.9,2017,0.51,55
+943,41,"University of California, San Diego","united states",28416,6.6,73.15,61.2,66.2,98.9,67.3,47.7,2017,0.47,14
+944,180,"Paris-Sud University",france,26642,14.1,52.08,40.6,31.1,83.2,32.5,64,2017,0.55,17
+945,743,"Jordan University of Science and Technology",jordan,24686,16.4,17.15,16.4,6.2,16.4,31.4,62.2,2016,0.55,23
+946,181,"University of Dundee","united kingdom",11265,14.7,52.03,26.7,31,92.3,43.8,79.1,2017,0.61,24
+947,744,"Osaka Prefecture University",japan,8051,7.5,17.15,21.6,10.2,17.5,41.5,17.6,2016,0.36,3
+948,182,"University of Hamburg",germany,37501,46.7,52,42,41.6,70.5,60.6,56.7,2017,0.57,11
+949,42,"McGill University",canada,30911,13.5,73.08,66.4,70.3,81.8,41.9,86.4,2017,0.57,24
+950,43,"University of Hong Kong","hong kong",20095,17.8,73.04,66.5,74.5,73.2,52.9,99.4,2017,0.51,39
+951,183,"Northeastern University, US","united states",18368,14.5,51.72,38.2,25.7,89.8,35.5,63,2017,0.50,28
+952,745,"Niigata University",japan,12460,8.5,17.12,21.9,10.1,17.5,33,19.3,2016,0.37,3
+953,44,"Universität Heidelberg",germany,29527,24.9,72.95,66.7,65,90.8,60,62.7,2017,0.55,17
+954,45,"University of Wisconsin-Madison","united states",40048,11,72.59,68.2,71.4,87.9,47.4,42,2017,0.51,12
+955,184,"Cardiff University","united kingdom",23550,14.3,51.72,31.8,36.9,80.9,37,78.9,2017,0.56,25
+956,185,"University of Miami","united states",16054,6,51.7,43.1,17.1,92.5,38.1,65.8,2017,0.51,15
+957,46,"Technical University of Munich",germany,36929,51.9,71.54,61,70.5,82,100,66.6,2017,0.33,22
+958,746,"Nagasaki University",japan,9137,7.2,17.12,22.8,10.8,14.3,44.12,21.9,2016,0.36,4
+959,47,"Australian National University",australia,15402,19.9,71.26,54,73.9,81.7,53.5,93.9,2017,0.52,35
+960,186,"University of the Witwatersrand","south africa",24565,24.5,51.68,26.4,37.3,82.9,100,69.4,2017,0.56,8
+961,747,"Amrita Vishwa Vidyapeetham",india,17273,6.6,16.99,20.4,5.8,20.7,28,29.6,2016,NULL,8
+962,748,"Ehime University",japan,8394,9.9,16.91,19.2,11.3,17.5,37.8,20.9,2016,0.39,1
+963,187,"University of Würzburg",germany,22297,33.5,51.6,34.8,37,83.4,48.1,51.2,2017,0.57,8
+964,48,"University of California, Santa Barbara","united states",22267,27.4,71.14,52.2,62.6,99.2,87.6,63.3,2017,0.51,12
+965,137,"Tufts University","united states",10462,10.1,56.52,48.1,34.3,88.5,58.5,50.5,2017,0.54,15
+966,188,"Hebrew University of Jerusalem",israel,17709,10.8,51.59,44.3,39.6,71.1,35.4,56.1,2017,0.57,5
+967,49,"The Hong Kong University of Science and Technology","hong kong",11960,27.3,71.09,53.2,66.7,91.2,62,82.8,2017,NULL,38
+968,138,"Sungkyunkwan University (SKKU)","south korea",24791,19.1,56.43,53.7,50.6,66.5,88.9,39.6,2017,NULL,10
+969,749,"Khon Kaen University",thailand,39669,16.9,16.9,18.2,7.4,19.9,35.7,31.5,2016,0.62,1
+970,50,"University of Texas at Austin","united states",48689,17.2,70.8,63.9,65.9,93,51.3,35.7,2017,0.51,10
+971,189,"Lomonosov Moscow State University","russian federation",29563,7.4,51.51,75.2,61.6,12.5,89.1,59.9,2017,0.45,21
+972,139,"University of Geneva",switzerland,15587,15,56.38,37.4,41.1,79.3,66.7,98.3,2017,0.61,40
+973,190,"University of Aberdeen","united kingdom",11555,13.6,51.45,31,31.2,82.6,44.5,92,2017,0.55,32
+974,140,"Scuola Normale Superiore di Pisa",italy,545,15.1,56.38,54,47.5,70.3,51.6,47.3,2017,0.30,6
+975,191,"Newcastle University","united kingdom",20305,15.6,51.35,33.6,32.1,81,38.7,84.9,2017,0.49,28
+976,141,"Lancaster University","united kingdom",11675,13.6,56.35,37,40.9,84.7,35.6,89.1,2017,0.52,35
+977,51,"University of California, Davis","united states",36060,13.7,70.43,61.4,67.3,86.6,50,61.2,2017,0.55,15
+978,750,"Suez Canal University",egypt,16817,6,16.82,22.6,5.9,16,44.12,31.6,2016,0.65,0
+979,192,"Sant’Anna School of Advanced Studies – Pisa",italy,679,13.1,51.34,44.7,33.9,74.1,86.6,44.9,2017,0.38,13
+980,52,"Brown University","united states",8694,10.2,70.42,66.3,54.4,96.7,33.9,58,2017,NULL,20
+981,751,"University of Nairobi",kenya,72676,47,16.77,13.7,9,19.5,28,45.5,2016,0.40,1
+982,193,"Hong Kong Polytechnic University","hong kong",21907,25.6,51.18,35,41.8,69.9,47.9,79.7,2017,0.54,25
+983,142,"Rutgers University – New Brunswick","united states",42892,10.8,56.21,47.7,49.8,77.9,36.6,35.6,2017,0.52,8
+984,752,"National Chengchi University",taiwan,16867,18.4,16.74,18.4,12.5,14,31.3,33.1,2016,0.57,10
+985,194,"University of Reading","united kingdom",12085,14,51.18,36.8,37.5,71.6,36.6,86.6,2017,0.56,29
+986,195,"University of Konstanz",germany,11335,50.4,51.13,39.8,44.5,64.4,73.1,62.6,2017,0.54,12
+987,143,"University of Adelaide",australia,20462,29.6,56.1,37.1,43.9,78.8,67.5,86.3,2017,0.47,27
+988,196,"National Taiwan University (NTU)",taiwan,31581,11.6,50.96,51.4,52.5,54.5,47.8,29.9,2017,0.40,8
+989,144,"University of Notre Dame","united states",11821,13.5,55.88,50.2,40.7,80.2,37.4,48.2,2017,0.45,10
+990,197,"University of Calgary",canada,28047,16,50.95,34.8,35.2,77.9,48.8,71.5,2017,0.53,18
+991,253,CentraleSupélec,france,4130,11.4,46.29,35.8,14.7,78.1,56.4,84,2017,NULL,32
+992,145,"Stockholm University",sweden,31272,23.5,55.81,32.2,46.2,86.8,33.8,72.1,2017,0.62,8
+993,198,"University of Duisburg-Essen",germany,41002,53,50.83,34.1,28.7,87.5,77.8,50.6,2017,0.49,12
+994,254,"Queen’s University",canada,21015,22.6,46.27,38.9,34.8,60.9,41.7,64.7,2017,0.58,11
+995,199,"Tilburg University",netherlands,7454,22.4,50.82,38.8,50.2,57,58,74.3,2017,0.49,13
+996,146,"Karlsruhe Institute of Technology",germany,25948,24.5,55.79,41.3,45.2,76.4,98.3,59.5,2017,0.27,17
+997,200,"Brandeis University","united states",5532,13.1,50.76,29.8,24.6,99.7,33.8,49.2,2017,0.55,23
+998,255,"University of Cincinnati – Uptown","united states",27712,21.9,46.27,37.8,29.6,75.4,41.9,31.8,2017,0.52,8
+999,147,"University of California, Santa Cruz","united states",17203,24.5,55.62,34.7,35.3,99.8,40.9,48.7,2017,0.53,2
+1000,201,"University of Illinois Chicago","united states",24459,11.6,50.59,46,35.3,69.6,41.6,57.1,2017,0.53,18

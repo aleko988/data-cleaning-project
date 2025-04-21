@@ -1,3 +1,4 @@
+
 # University Data Cleaning Project
 
 This project focuses on cleaning raw university ranking data in preparation for further analysis. The dataset includes information on global universities such as rank, student population, gender ratios, scores in teaching, research, and more.
@@ -58,3 +59,7 @@ To use this script:
 This project is part of my learning journey in data analytics and SQL.  
 I practiced core data cleaning techniques and efficient SQL querying.
 
+=======
+# data-cleaning-project
+Data cleaning project using SQL 
+26e6cbe174998c2a1c81c2ee4a0dbfdd71b19267
